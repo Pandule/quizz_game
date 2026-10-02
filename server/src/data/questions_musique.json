@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "mus_001",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Quel artiste américain est surnommé le « Roi de la Pop » ?",
+    "choices": [
+      "Prince",
+      "Michael Jackson",
+      "Stevie Wonder",
+      "Elvis Presley"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_002",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Combien de cordes possède une guitare classique standard ?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_003",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Quel célèbre groupe de rock britannique chantait « Yellow Submarine » ?",
+    "choices": [
+      "The Rolling Stones",
+      "The Beatles",
+      "The Who",
+      "Queen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_004",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Quel chanteur français a interprété le tube « Allumer le feu » ?",
+    "choices": [
+      "Johnny Hallyday",
+      "Michel Sardou",
+      "Eddy Mitchell",
+      "Renaud"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_005",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "De quel pays est originaire le groupe légendaire ABBA ?",
+    "choices": [
+      "Norvège",
+      "Danemark",
+      "Suède",
+      "Finlande"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_006",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Quel instrument à touches blanches et noires Frédéric Chopin jouait-il principalement ?",
+    "choices": [
+      "L'orgue",
+      "Le piano",
+      "Le clavecin",
+      "L'accordéon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_007",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Quel chanteur jamaïcain est l'icône mondiale absolue du reggae ?",
+    "choices": [
+      "Jimmy Cliff",
+      "Peter Tosh",
+      "Bob Marley",
+      "Alpha Blondy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_008",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Quelle chanteuse québécoise interprète le générique de Titanic, « My Heart Will Go On » ?",
+    "choices": [
+      "Céline Dion",
+      "Isabelle Boulay",
+      "Lara Fabian",
+      "Mylène Farmer"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_009",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Quel genre musical est né à la fin du XIXe siècle dans les communautés afro-américaines de La Nouvelle-Orléans ?",
+    "choices": [
+      "Le Jazz",
+      "Le Rock",
+      "L'Électro",
+      "La Country"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_010",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Quel groupe de rock mené par Freddie Mercury a composé « Bohemian Rhapsody » ?",
+    "choices": [
+      "Led Zeppelin",
+      "Pink Floyd",
+      "Queen",
+      "Aerosmith"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_011",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Combien de lignes horizontales composent une portée musicale traditionnelle ?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_012",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Quel groupe français casqué a composé les tubes « Around the World » et « Get Lucky » ?",
+    "choices": [
+      "Justice",
+      "Air",
+      "Daft Punk",
+      "Phoenix"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_013",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Quelle chanteuse américaine a sorti les albums « 1989 », « Red » et « Midnights » ?",
+    "choices": [
+      "Beyoncé",
+      "Lady Gaga",
+      "Taylor Swift",
+      "Katy Perry"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_014",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Dans quel conte musical de Serge Prokofiev le loup est-il représenté par trois cors ?",
+    "choices": [
+      "Casse-Noisette",
+      "Pierre et le Loup",
+      "Le Carnaval des animaux",
+      "L'Oiseau de feu"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_015",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Quel chanteur belge a connu un immense succès avec « Formidable » et « Papaoutai » ?",
+    "choices": [
+      "Stromae",
+      "Angèle",
+      "Damso",
+      "Jacques Brel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_016",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Quel instrument à cordes frottées est le plus aigu de sa famille ?",
+    "choices": [
+      "L'alto",
+      "Le violoncelle",
+      "La contrebasse",
+      "Le violon"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "mus_017",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Quel groupe de grunge américain était dirigé par Kurt Cobain ?",
+    "choices": [
+      "Pearl Jam",
+      "Nirvana",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_018",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Quel rappeur marseillais a sorti le célèbre morceau « Belsunce Breakdown » en 2000 ?",
+    "choices": [
+      "Akhenaton",
+      "Bouga",
+      "Shurik'n",
+      "Soprano"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_019",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Quelle note de musique se situe immédiatement après le Sol dans la gamme majeure ?",
+    "choices": [
+      "Fa",
+      "La",
+      "Si",
+      "Mi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_020",
+    "theme": "Musique",
+    "difficulty": "Facile",
+    "prompt": "Quel groupe australien de hard rock a composé « Highway to Hell » ?",
+    "choices": [
+      "AC/DC",
+      "Guns N' Roses",
+      "Iron Maiden",
+      "Metallica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_021",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel compositeur classique allemand a composé la célèbre 9e Symphonie en étant devenu sourd ?",
+    "choices": [
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johannes Brahms"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_022",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel album de Michael Jackson, sorti en 1982, est l'album le plus vendu de tous les temps ?",
+    "choices": [
+      "Bad",
+      "Off the Wall",
+      "Thriller",
+      "Dangerous"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_023",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Qui a composé le célèbre « Boléro » créé en 1928 ?",
+    "choices": [
+      "Claude Debussy",
+      "Maurice Ravel",
+      "Gabriel Fauré",
+      "Camille Saint-Saëns"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_024",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel groupe de rock britannique a sorti l'album concept « The Dark Side of the Moon » en 1973 ?",
+    "choices": [
+      "The Doors",
+      "Pink Floyd",
+      "Deep Purple",
+      "Genesis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_025",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel rappeur américain a sorti l'album « The Marshall Mathers LP » en 2000 ?",
+    "choices": [
+      "Tupac Shakur",
+      "Eminem",
+      "Snoop Dogg",
+      "Jay-Z"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_026",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel compositeur italien baroque est célèbre pour ses quatre concertos intitulés « Les Quatre Saisons » ?",
+    "choices": [
+      "Claudio Monteverdi",
+      "Antonio Vivaldi",
+      "Arcangelo Corelli",
+      "Tomaso Albinoni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_027",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quelle chanteuse britannique a rencontré un triomphe mondial avec les albums « 21 » et « 25 » ?",
+    "choices": [
+      "Adele",
+      "Amy Winehouse",
+      "Dua Lipa",
+      "Florence Welch"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_028",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel groupe de metal américain a sorti le célèbre « Master of Puppets » en 1986 ?",
+    "choices": [
+      "Megadeth",
+      "Slayer",
+      "Metallica",
+      "Anthrax"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_029",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quelle chanteuse de jazz américaine était affectueusement surnommée « The First Lady of Song » ?",
+    "choices": [
+      "Billie Holiday",
+      "Nina Simone",
+      "Ella Fitzgerald",
+      "Sarah Vaughan"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_030",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel rappeur français a fondé le label 92i et a sorti l'album culte « Temps mort » en 2002 ?",
+    "choices": [
+      "Rohff",
+      "Booba",
+      "La Fouine",
+      "Kery James"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_031",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Dans quel opéra de Georges Bizet entend-on l'air « L'amour est un oiseau rebelle » ?",
+    "choices": [
+      "Les Pêcheurs de perles",
+      "Carmen",
+      "Faust",
+      "La Traviata"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_032",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel guitariste virtuose a marqué le festival de Woodstock en 1969 avec son hymne américain distordu ?",
+    "choices": [
+      "Eric Clapton",
+      "Jimi Hendrix",
+      "Jimmy Page",
+      "Carlos Santana"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_033",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "De quel pays d'Afrique Cesária Évora, la diva aux pieds nus, était-elle originaire ?",
+    "choices": [
+      "Sénégal",
+      "Cap-Vert",
+      "Mali",
+      "Angola"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_034",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel groupe de rock progressif a écrit la chanson épique « Bohemian Rhapsody » ?",
+    "choices": [
+      "Queen",
+      "Yes",
+      "King Crimson",
+      "Jethro Tull"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_035",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel pianiste et compositeur jazz américain a enregistré l'album légendaire « Kind of Blue » en 1959 aux côtés de Miles Davis ?",
+    "choices": [
+      "Thelonious Monk",
+      "Bill Evans",
+      "Herbie Hancock",
+      "McCoy Tyner"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_036",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel chanteur français a écrit et composé « Ne me quitte pas » en 1959 ?",
+    "choices": [
+      "Jacques Brel",
+      "Georges Brassens",
+      "Léo Ferré",
+      "Charles Aznavour"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_037",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quelle clé musicale est traditionnellement utilisée sur la portée pour noter les sons graves (violoncelle, basse) ?",
+    "choices": [
+      "Clé de Sol",
+      "Clé d'Ut",
+      "Clé de Fa",
+      "Clé de Ré"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_038",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel groupe de pop britannique des années 90 était composé de Victoria, Mel B, Mel C, Emma et Geri ?",
+    "choices": [
+      "All Saints",
+      "Spice Girls",
+      "Destiny's Child",
+      "TLC"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_039",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Qui a composé le célèbre ballet « Le Lac des cygnes » ?",
+    "choices": [
+      "Igor Stravinsky",
+      "Piotr Ilitch Tchaïkovski",
+      "Serge Prokofiev",
+      "Modeste Moussorgski"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_040",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel groupe britannique mené par Thom Yorke a sorti l'album acclamé « OK Computer » en 1997 ?",
+    "choices": [
+      "Blur",
+      "Oasis",
+      "Radiohead",
+      "Muse"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_041",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel instrument traditionnel écossais fonctionne à l'aide d'une poche d'air et de tuyaux à anches ?",
+    "choices": [
+      "La cornemuse",
+      "La vielle à roue",
+      "L'accordéon",
+      "Le biniou"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_042",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel chanteur américain a popularisé le « Moonwalk » lors de sa prestation de « Billie Jean » en 1983 ?",
+    "choices": [
+      "James Brown",
+      "Michael Jackson",
+      "Prince",
+      "Stevie Wonder"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_043",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel groupe de heavy metal britannique a pour mascotte un monstre nommé Eddie ?",
+    "choices": [
+      "Black Sabbath",
+      "Iron Maiden",
+      "Judas Priest",
+      "Motorhead"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_044",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel compositeur autrichien a composé la « Flûte enchantée » et le « Requiem » en ré mineur ?",
+    "choices": [
+      "Franz Schubert",
+      "Wolfgang Amadeus Mozart",
+      "Joseph Haydn",
+      "Anton Bruckner"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_045",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quelle chanteuse soul britannique a sorti l'album historique « Back to Black » en 2006 ?",
+    "choices": [
+      "Duffy",
+      "Joss Stone",
+      "Amy Winehouse",
+      "Adele"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_046",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel groupe de rock américain a fait un carton mondial avec le titre « Californication » en 1999 ?",
+    "choices": [
+      "Foo Fighters",
+      "Red Hot Chili Peppers",
+      "Green Day",
+      "The Offspring"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_047",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel festival de musique mythique a rassemblé près de 500 000 personnes en août 1969 dans l'État de New York ?",
+    "choices": [
+      "Monterey",
+      "Woodstock",
+      "Glastonbury",
+      "Isle of Wight"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_048",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Combien de demi-tons séparent deux notes distantes d'une octave ?",
+    "choices": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_049",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel auteur-compositeur français a créé le conte musical pour enfants « Émilie Jolie » ?",
+    "choices": [
+      "Philippe Chatel",
+      "Alain Souchon",
+      "Henri Dès",
+      "Pierre Perret"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_050",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Dans quel groupe de hip-hop américain trouvait-on RZA, GZA, Method Man et Ol' Dirty Bastard ?",
+    "choices": [
+      "A Tribe Called Quest",
+      "Wu-Tang Clan",
+      "N.W.A",
+      "Public Enemy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_051",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel compositeur baroque allemand a composé « Le Clavier bien tempéré » et « L'Offrande musicale » ?",
+    "choices": [
+      "Georg Friedrich Haendel",
+      "Johann Sebastian Bach",
+      "Georg Philipp Telemann",
+      "Heinrich Schütz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_052",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quelle chanteuse islandaise atypique a sorti les albums cultes « Debut », « Post » et « Homogenic » ?",
+    "choices": [
+      "Björk",
+      "Sigur Rós",
+      "Aurora",
+      "Enya"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_053",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel instrument à cordes frottées se joue assis, calé entre les jambes à l'aide d'une pique au sol ?",
+    "choices": [
+      "L'alto",
+      "La harpe",
+      "Le violoncelle",
+      "La viole d'amour"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_054",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel groupe de hip-hop français fondé par Kool Shen et JoeyStarr a marqué les années 90 ?",
+    "choices": [
+      "IAM",
+      "Suprême NTM",
+      "Assassin",
+      "Ministère A.M.E.R."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_055",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quelle chanteuse afro-américaine était surnommée la « Reine de la Soul » ?",
+    "choices": [
+      "Diana Ross",
+      "Aretha Franklin",
+      "Etta James",
+      "Tina Turner"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_056",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel groupe de rock britannique a sorti l'album « Led Zeppelin IV » contenant « Stairway to Heaven » ?",
+    "choices": [
+      "The Rolling Stones",
+      "The Kinks",
+      "Led Zeppelin",
+      "The Who"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_057",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel instrument à vent en cuivre possède des coulisses au lieu de pistons ?",
+    "choices": [
+      "La trompette",
+      "Le cor d'harmonie",
+      "Le trombone",
+      "Le tuba"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_058",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel duo français de musique électronique a produit la bande originale du film « Tron: L'Héritage » ?",
+    "choices": [
+      "Air",
+      "Cassius",
+      "Daft Punk",
+      "Justice"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_059",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel compositeur polonais de la période romantique a dédié la quasi-totalité de son œuvre au piano ?",
+    "choices": [
+      "Stanislaw Moniuszko",
+      "Ignacy Paderewski",
+      "Frédéric Chopin",
+      "Karol Szymanowski"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_060",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel groupe de rock américain aux maquillages noir et blanc spectaculaires chantait « I Was Made for Lovin' You » ?",
+    "choices": [
+      "Twisted Sister",
+      "KISS",
+      "Alice Cooper",
+      "Mötley Crüe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_061",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel rappeur californien a été tragiquement assassiné à Las Vegas en septembre 1996 ?",
+    "choices": [
+      "The Notorious B.I.G.",
+      "Tupac Shakur",
+      "Eazy-E",
+      "Big L"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_062",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Comment appelle-t-on la vitesse d'exécution d'un morceau de musique (ex. Allegro, Andante) ?",
+    "choices": [
+      "La nuance",
+      "La tonalité",
+      "Le tempo",
+      "L'armure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_063",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel artiste français a créé l'album concept « L'Homme à tête de chou » en 1976 ?",
+    "choices": [
+      "Serge Gainsbourg",
+      "Alain Bashung",
+      "Jacques Dutronc",
+      "Michel Polnareff"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_064",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quelle chanteuse pop américaine a débuté au Mickey Mouse Club avant de triompher avec « ...Baby One More Time » ?",
+    "choices": [
+      "Christina Aguilera",
+      "Britney Spears",
+      "Jessica Simpson",
+      "Mandy Moore"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_065",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel compositeur d'opéra italien a signé « Rigoletto », « Il Trovatore » et « La Traviata » ?",
+    "choices": [
+      "Giacomo Puccini",
+      "Gioachino Rossini",
+      "Giuseppe Verdi",
+      "Gaetano Donizetti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_066",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel groupe de rock alternatif américain a sorti l'album mythique « Automatic for the People » en 1992 ?",
+    "choices": [
+      "R.E.M.",
+      "Pixies",
+      "Smashing Pumpkins",
+      "The Cure"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_067",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel guitariste manouche virtuose français a inventé le style jazz manouche avec Stéphane Grappelli ?",
+    "choices": [
+      "Biréli Lagrène",
+      "Django Reinhardt",
+      "Titi Winterstein",
+      "Babik Reinhardt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_068",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel terme italien indique une nuance musicale demandant de jouer très doucement ?",
+    "choices": [
+      "Forte",
+      "Pianissimo",
+      "Mezzo forte",
+      "Crescendo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_069",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quelle formation vocale réunit généralement les pupitres Soprano, Alto, Ténor et Basse ?",
+    "choices": [
+      "Un quatuor à cordes",
+      "Un chœur mixte",
+      "Un big band",
+      "Un ensemble baroque"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_070",
+    "theme": "Musique",
+    "difficulty": "Moyen",
+    "prompt": "Quel chanteur et poète américain a reçu le prix Nobel de littérature en 2016 pour son œuvre musicale ?",
+    "choices": [
+      "Leonard Cohen",
+      "Paul Simon",
+      "Bob Dylan",
+      "Bruce Springsteen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_071",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel intervalle musical dissonant, composé de trois tons entiers, était surnommé « Diabolus in Musica » au Moyen Âge ?",
+    "choices": [
+      "La quinte diminuée (triton)",
+      "La septième majeure",
+      "La seconde mineure",
+      "La tierce diminuée"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_072",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel compositeur français a créé la musique spectrale avec des œuvres comme « Espaces nouveaux » et « Désintégrations » ?",
+    "choices": [
+      "Pierre Boulez",
+      "Gérard Grisey",
+      "Tristan Murail",
+      "Iannis Xenakis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_073",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel système de composition atonale à douze sons égaux a été théorisé par Arnold Schönberg au début des années 1920 ?",
+    "choices": [
+      "La musique concrète",
+      "Le dodécaphonisme sériel",
+      "La micropolyphonie",
+      "Le spectralisme"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_074",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Dans la théorie des modes anciens grecs et grégoriens, quel mode correspond à une gamme commençant sur le Ré naturel ?",
+    "choices": [
+      "Le mode Dorien",
+      "Le mode Phrygien",
+      "Le mode Lydien",
+      "Le mode Mixolydien"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_075",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel compositeur austro-bohême a composé « Das Lied von der Erde » (Le Chant de la Terre) à la fin de sa vie ?",
+    "choices": [
+      "Anton Bruckner",
+      "Gustav Mahler",
+      "Richard Strauss",
+      "Alban Berg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_076",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel chef d'orchestre et compositeur a fondé l'IRCAM à Paris en 1970 ?",
+    "choices": [
+      "Olivier Messiaen",
+      "Pierre Boulez",
+      "Pierre Schaeffer",
+      "Henri Dutilleux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_077",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel organiste et compositeur français du XXe siècle a utilisé des « modes à transpositions limitées » et transcrit des chants d'oiseaux ?",
+    "choices": [
+      "Maurice Duruflé",
+      "Olivier Messiaen",
+      "Jehan Alain",
+      "Marcel Dupré"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_078",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel pianiste virtuose et compositeur hongrois a écrit les monumentales « Études d'exécution transcendante » ?",
+    "choices": [
+      "Béla Bartók",
+      "Zoltán Kodály",
+      "Franz Liszt",
+      "Ernő Dohnányi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_079",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quelle œuvre d'Igor Stravinsky a provoqué un scandale historique et une émeute lors de sa création au Théâtre des Champs-Élysées en 1913 ?",
+    "choices": [
+      "Petrouchka",
+      "L'Oiseau de feu",
+      "Le Sacre du printemps",
+      "Symphonie de Psaumes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_080",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel saxophoniste de jazz avant-gardiste a enregistré l'album révolutionnaire de free jazz « A Love Supreme » en 1964 ?",
+    "choices": [
+      "Ornette Coleman",
+      "John Coltrane",
+      "Sonny Rollins",
+      "Wayne Shorter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_081",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel tempérament musical, divisant l'octave en 12 demi-tons mathématiquement égaux au ratio 2^(1/12), est le standard occidental moderne ?",
+    "choices": [
+      "Le tempérament pythagoricien",
+      "Le tempérament mésotonique",
+      "Le tempérament égal",
+      "Le tempérament de Werckmeister"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_082",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel compositeur de la Renaissance franco-flamande est considéré comme le « Prince de la musique » et le maître du contrepoint polyphonique au tournant du XVIe siècle ?",
+    "choices": [
+      "Guillaume Dufay",
+      "Josquin des Prés",
+      "Johannes Ockeghem",
+      "Roland de Lassus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_083",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Dans un accord parfait majeur fondamental (ex. Do majeur : Do - Mi - Sol), quel intervalle trouve-t-on entre la basse et la tierce ?",
+    "choices": [
+      "Une tierce majeure (2 tons)",
+      "Une tierce mineure (1,5 ton)",
+      "Une quarte juste (2,5 tons)",
+      "Une seconde augmentée"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_084",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel compositeur russe d'avant-garde a imaginé l'œuvre inachevée « Mystère », synesthésique et mystique, prévoyant d'associer sons, lumières et parfums ?",
+    "choices": [
+      "Alexandre Scriabine",
+      "Sergueï Rachmaninov",
+      "Dmitri Chostakovitch",
+      "Nikolaï Medtner"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_085",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel compositeur d'opéra allemand a développé le concept de « Gesamtkunstwerk » (œuvre d'art totale) et la technique du Leitmotiv ?",
+    "choices": [
+      "Richard Strauss",
+      "Carl Maria von Weber",
+      "Richard Wagner",
+      "Engelbert Humperdinck"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_086",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel musicien de bluegrass et compositeur a inventé la technique de jeu de banjo à trois doigts connue sous le nom de « Scruggs style » ?",
+    "choices": [
+      "Bill Monroe",
+      "Earl Scruggs",
+      "Lester Flatt",
+      "Doc Watson"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_087",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quelle compositrice et pédagogue française d'exception a formé les plus grands compositeurs du XXe siècle (Copland, Quincy Jones, Philip Glass) ?",
+    "choices": [
+      "Lili Boulanger",
+      "Nadia Boulanger",
+      "Germaine Tailleferre",
+      "Cécile Chaminade"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_088",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Dans une fugue classique, comment appelle-t-on la réponse directe au « sujet » transposée généralement à la quinte ?",
+    "choices": [
+      "Le contre-sujet",
+      "Le divertissement",
+      "La réponse (ou réplique)",
+      "La strette"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_089",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel compositeur américain minimaliste est l'auteur de l'opéra marathon de 5 heures sans entracte « Einstein on the Beach » (1976) ?",
+    "choices": [
+      "Steve Reich",
+      "Philip Glass",
+      "John Adams",
+      "Terry Riley"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_090",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quelle chanteuse et pianiste afro-américaine, formée à la musique classique et diplômée de Juilliard, s'appelait Eunice Kathleen Waymon à l'état civil ?",
+    "choices": [
+      "Nina Simone",
+      "Billie Holiday",
+      "Roberta Flack",
+      "Abbey Lincoln"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_091",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel pionnier français a fondé le Groupe de Recherches Musicales (GRM) et conçu le concept de « musique concrète » à partir d'objets sonores enregistrés ?",
+    "choices": [
+      "Pierre Boulez",
+      "Pierre Schaeffer",
+      "Jean-Michel Jarre",
+      "Luc Ferrari"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_092",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel compositeur baroque italien a composé l'opéra « L'Orfeo » en 1607, marquant la naissance officielle du genre lyrique ?",
+    "choices": [
+      "Claudio Monteverdi",
+      "Jacopo Peri",
+      "Giulio Caccini",
+      "Francesco Cavalli"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mus_093",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quelle partition de John Cage, créée en 1952, consiste en exactement quatre minutes et trente-trois secondes de silence absolu de la part de l'interprète ?",
+    "choices": [
+      "Music of Changes",
+      "4'33\"",
+      "Fontana Mix",
+      "Sonatas and Interludes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_094",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel compositeur soviétique a dissimulé son monogramme musical personnel D-Es-C-H (Ré - Mi bémol - Do - Si) dans de multiples partitions, notamment son 8e Quatuor ?",
+    "choices": [
+      "Serge Prokofiev",
+      "Aram Khatchatourian",
+      "Dmitri Chostakovitch",
+      "Alfred Schnittke"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_095",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel terme d'ornementation vocale baroque désigne une note étrangère tenue sur un temps fort qui retarde et résout sur la note harmonique attendue ?",
+    "choices": [
+      "Une broderie",
+      "Une appogiature",
+      "Un trille",
+      "Un mordant"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_096",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel groupe de rock progressif britannique des années 1970 comprenait le claviériste Keith Emerson, le bassiste Greg Lake et le batteur Carl Palmer ?",
+    "choices": [
+      "King Crimson",
+      "Emerson, Lake & Palmer",
+      "Gentle Giant",
+      "Van der Graaf Generator"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_097",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel bassiste électrique virtuose a révolutionné l'usage de la basse fretless au sein du groupe de jazz fusion Weather Report dans les années 1970 ?",
+    "choices": [
+      "Stanley Clarke",
+      "Jaco Pastorius",
+      "Marcus Miller",
+      "Victor Wooten"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_098",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel compositeur autrichien a composé le premier opéra dodécaphonique complet, « Moïse et Aaron » ?",
+    "choices": [
+      "Alban Berg",
+      "Anton Webern",
+      "Arnold Schönberg",
+      "Alexander von Zemlinsky"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mus_099",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Dans la métrique musicale ancienne, quelle mesure ternaire à subdivision binaire oppose ses accents à une mesure binaire à subdivision ternaire lors d'une hémiolle ?",
+    "choices": [
+      "Une syncope",
+      "Une hémiolle",
+      "Un anacrouse",
+      "Un contretemps"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mus_100",
+    "theme": "Musique",
+    "difficulty": "Difficile",
+    "prompt": "Quel célèbre luthier crémonais du XVIIIe siècle a fabriqué les violons les plus réputés et précieux de l'histoire, aux côtés de Guarneri del Gesù ?",
+    "choices": [
+      "Andrea Amati",
+      "Antonio Stradivari (Stradivarius)",
+      "Gasparo da Salò",
+      "Giovanni Paolo Maggini"
+    ],
+    "correctIndex": 1
+  }
+]

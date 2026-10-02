@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "pop_001",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Quel est le prénom du frère de Mario, reconnaissable à sa salopette bleue et sa casquette verte ?",
+    "choices": [
+      "Wario",
+      "Luigi",
+      "Toad",
+      "Waluigi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_002",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Quel réseau social utilise le symbole d'un petit fantôme blanc sur fond jaune comme logo ?",
+    "choices": [
+      "TikTok",
+      "Snapchat",
+      "Instagram",
+      "BeReal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_003",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Dans « Pokémon », quel rongeur électrique jaune refuse d'entrer dans sa Pokéball aux côtés de Sacha ?",
+    "choices": [
+      "Salamèche",
+      "Carapuce",
+      "Bulbizarre",
+      "Pikachu"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "pop_004",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Quel célèbre jeu vidéo de construction cubique a été créé par Markus Persson (Notch) ?",
+    "choices": [
+      "Roblox",
+      "Minecraft",
+      "Terraria",
+      "Lego Worlds"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_005",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Quelle plateforme de streaming vidéo en direct est particulièrement prisée par les streamers de jeux vidéo ?",
+    "choices": [
+      "Twitch",
+      "Spotify",
+      "Vimeo",
+      "Dailymotion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "pop_006",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Quel est le format d'image animé court, généralement sans son et tournant en boucle, ultra-populaire sur le web ?",
+    "choices": [
+      "PNG",
+      "JPEG",
+      "GIF",
+      "SVG"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "pop_007",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Dans « Star Wars », quelle créature verte âgée de 900 ans enseigne la maîtrise de la Force à Luke Skywalker ?",
+    "choices": [
+      "Chewbacca",
+      "Yoda",
+      "Jar Jar Binks",
+      "Jabba le Hutt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_008",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Quel mot-symbole commençant par un dièse (#) permet de catégoriser des publications sur les réseaux sociaux ?",
+    "choices": [
+      "Un arobase",
+      "Un hashtag",
+      "Un mème",
+      "Un thread"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_009",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Quel jeu de Battle Royale gratuit développé par Epic Games a popularisé le bus de combat et les danses virales ?",
+    "choices": [
+      "Apex Legends",
+      "Fortnite",
+      "PUBG",
+      "Warzone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_010",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Quel hérisson bleu ultrarapide est la mascotte historique de Sega ?",
+    "choices": [
+      "Tails",
+      "Knuckles",
+      "Sonic",
+      "Shadow"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "pop_011",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Quelle plateforme de vidéos courtes au format vertical a été lancée par l'entreprise ByteDance ?",
+    "choices": [
+      "Vine",
+      "TikTok",
+      "Musical.ly",
+      "Shorts"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_012",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Dans le manga « Naruto », quel est le plat préféré du jeune ninja blond ?",
+    "choices": [
+      "Les sushis",
+      "Les ramens",
+      "Les gyozas",
+      "Les onigiris"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_013",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Quel oiseau bleu emblématique a longtemps été le logo de Twitter avant d'être remplacé par un 'X' ?",
+    "choices": [
+      "Larry Bird",
+      "Tweety",
+      "Pepe",
+      "Doggo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "pop_014",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Dans quel jeu mobile lancé en 2016 devait-on marcher dans la rue avec son smartphone en réalité augmentée ?",
+    "choices": [
+      "Angry Birds",
+      "Candy Crush",
+      "Pokémon GO",
+      "Clash Royale"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "pop_015",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Quel youtubeur francophone a longtemps été le numéro 1 en nombre d'abonnés avant d'ouvrir un restaurant de burgers ?",
+    "choices": [
+      "Norman",
+      "Cyprien",
+      "Squeezie",
+      "Mister V"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "pop_016",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Dans l'univers Marvel, quel super-héros milliardaire est protégé par une armure rouge et dorée munie d'un réacteur ARK ?",
+    "choices": [
+      "Captain America",
+      "Iron Man",
+      "Thor",
+      "Doctor Strange"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_017",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Quel mot d'argot internet désigne le fait de révéler des éléments clés de l'intrigue d'un film ou d'un jeu ?",
+    "choices": [
+      "Troller",
+      "Spoiler",
+      "Spammer",
+      "Liker"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_018",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Quel héros vêtu de vert parcourt le royaume d'Hyrule pour sauver la princesse Zelda ?",
+    "choices": [
+      "Link",
+      "Ganon",
+      "Epona",
+      "Sheik"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "pop_019",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Quel terme désigne une idée, un comportement ou une image humoristique déclinée et massivement partagée sur internet ?",
+    "choices": [
+      "Un bug",
+      "Un mème",
+      "Un plugin",
+      "Un avatar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_020",
+    "theme": "Pop culture & internet",
+    "difficulty": "Facile",
+    "prompt": "Quel géant du commerce en ligne a été fondé par Jeff Bezos en 1994, à l'origine comme librairie en ligne ?",
+    "choices": [
+      "eBay",
+      "Alibaba",
+      "Amazon",
+      "Rakuten"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "pop_021",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel événement caritatif francophone sur Twitch fondé par ZeratoR et Dach récolte des millions d'euros chaque année ?",
+    "choices": [
+      "Le Téléthon",
+      "Le ZEvent",
+      "Streamers Sans Frontières",
+      "Speedons"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_022",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel est le fruit du démon mangé par Monkey D. Luffy au début du manga « One Piece » ?",
+    "choices": [
+      "Mera Mera no Mi",
+      "Gomu Gomu no Mi",
+      "Ope Ope no Mi",
+      "Gura Gura no Mi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_023",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel célèbre mème de chien de race Shiba Inu a donné naissance à une cryptomonnaie satirique en 2013 ?",
+    "choices": [
+      "Cheems",
+      "Doge (Kabosu)",
+      "Gabe the Dog",
+      "Walter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_024",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Dans « League of Legends », quel est le nom de la carte principale à 3 voies où s'affrontent deux équipes de 5 joueurs ?",
+    "choices": [
+      "La Brèche de cristal",
+      "La Faille de l'Invocateur",
+      "La Forêt torturée",
+      "L'Abîme hurlant"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_025",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quelle encyclopédie collaborative gratuite en ligne a été lancée le 15 janvier 2001 par Jimmy Wales et Larry Sanger ?",
+    "choices": [
+      "Encarta",
+      "Wikipédia",
+      "Wiktionnaire",
+      "Fandom"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_026",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Dans le jeu indépendant « Undertale » de Toby Fox, quel squelette paresseux adore faire des blagues de mauvais goût ?",
+    "choices": [
+      "Papyrus",
+      "Sans",
+      "Asriel",
+      "Gaster"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_027",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel studio d'animation japonais a produit les chefs-d'œuvre « Le Voyage de Chihiro » et « Princesse Mononoké » ?",
+    "choices": [
+      "Kyoto Animation",
+      "Studio Ghibli",
+      "Toei Animation",
+      "MAPPA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_028",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quelle vidéo YouTube musicale a été la première de l'histoire à franchir la barre du milliard de vues en 2012 ?",
+    "choices": [
+      "Baby de Justin Bieber",
+      "Gangnam Style de PSY",
+      "Despacito de Luis Fonsi",
+      "See You Again de Wiz Khalifa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_029",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel youtubeur américain, de son vrai nom Jimmy Donaldson, est devenu le créateur individuel le plus suivi au monde avec ses défis géants ?",
+    "choices": [
+      "PewDiePie",
+      "Markiplier",
+      "MrBeast",
+      "Logan Paul"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "pop_030",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Dans l'univers de « Matrix », quelle pilule Neo choisit-il d'avaler pour découvrir la vérité sur le monde réel ?",
+    "choices": [
+      "La pilule bleue",
+      "La pilule rouge",
+      "La pilule verte",
+      "La pilule jaune"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_031",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel jeu de déduction sociale dans l'espace développé par InnerSloth est devenu un phénomène mondial en 2020 ?",
+    "choices": [
+      "Fall Guys",
+      "Among Us",
+      "Phasmophobia",
+      "Rust"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_032",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Comment s'appelle le chat vedette d'un mème internet de 2011 qui vole dans l'espace en laissant une traînée d'arc-en-ciel sur une musique 8-bit ?",
+    "choices": [
+      "Grumpy Cat",
+      "Nyan Cat",
+      "Keyboard Cat",
+      "Pop Cat"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_033",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel mangaka est l'auteur du manga « Berserk », réputé pour son univers dark fantasy et son coup de crayon monumental ?",
+    "choices": [
+      "Kentaro Miura",
+      "Takehiko Inoue",
+      "Yoshihiro Togashi",
+      "Naoki Urasawa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "pop_034",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel est le premier long métrage d'animation entièrement réalisé par ordinateur par les studios Pixar en 1995 ?",
+    "choices": [
+      "1001 Pattes",
+      "Toy Story",
+      "Monstres et Cie",
+      "Le Monde de Nemo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_035",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel youtubeur et comédien français a popularisé les sagas audio MP3 avec « Le Donjon de Naheulbeuk » ?",
+    "choices": [
+      "François Descraques",
+      "John Lang (Pen Of Chaos)",
+      "Simon Astier",
+      "JBX"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_036",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Dans quel jeu de cartes à collectionner créé par Richard Garfield en 1993 trouve-t-on le fameux artefact « Black Lotus » ?",
+    "choices": [
+      "Yu-Gi-Oh!",
+      "Pokémon JCC",
+      "Magic: The Gathering",
+      "Hearthstone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "pop_037",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel site internet fondé en 2005 par Steve Huffman et Alexis Ohanian se surnomme « The front page of the internet » ?",
+    "choices": [
+      "Digg",
+      "Reddit",
+      "4chan",
+      "Tumblr"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_038",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quelle arme emblématique de la saga « The Legend of Zelda » repose dans son socle au cœur de la forêt ?",
+    "choices": [
+      "L'épée Biggoron",
+      "L'épée de légende (Master Sword)",
+      "L'épée Kokiri",
+      "L'épée d'argent"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_039",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel est le prénom du personnage principal du manga « Death Note », qui trouve le carnet de la mort de Ryuk ?",
+    "choices": [
+      "L",
+      "Near",
+      "Light",
+      "Ryuzaki"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "pop_040",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel titre de simulation de vie créé par Will Wright chez Maxis permettait de contrôler le quotidien d'humains virtuels dès 2000 ?",
+    "choices": [
+      "SimCity",
+      "Les Sims",
+      "Theme Hospital",
+      "Animal Crossing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_041",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Comment appelle-t-on le canular internet consistant à piéger un internaute avec un lien menant au clip de Rick Astley « Never Gonna Give You Up » ?",
+    "choices": [
+      "Le Rickroll",
+      "Le Catfish",
+      "Le Phishing",
+      "Le Doxtrap"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "pop_042",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel jeu multijoueur sur PC développé par Valve oppose des terroristes et des antiterroristes depuis 1999 ?",
+    "choices": [
+      "Team Fortress",
+      "Counter-Strike",
+      "Half-Life",
+      "Left 4 Dead"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_043",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Dans le manga « L'Attaque des Titans », comment s'appelle le héros qui jure d'exterminer tous les titans jusqu'au dernier ?",
+    "choices": [
+      "Livai Ackerman",
+      "Armin Arlert",
+      "Eren Jäger",
+      "Erwin Smith"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "pop_044",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel site de partage d'images anonyme créé en 2003 par 'moot' (Christopher Poole) est à l'origine d'un très grand nombre de mèmes web ?",
+    "choices": [
+      "Reddit",
+      "4chan",
+      "Imgur",
+      "Flickr"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_045",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel studio polonais a développé la trilogie de jeux vidéo « The Witcher » et « Cyberpunk 2077 » ?",
+    "choices": [
+      "Techland",
+      "CD Projekt RED",
+      "Bloober Team",
+      "People Can Fly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_046",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel créateur a conçu le mythique jeu vidéo « Metal Gear Solid » et dirigé « Death Stranding » ?",
+    "choices": [
+      "Shigeru Miyamoto",
+      "Hideo Kojima",
+      "Shinji Mikami",
+      "Tetsuya Nomura"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_047",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel oiseau en colère lance-t-on avec un lance-pierre dans le jeu mobile finlandais phare de Rovio sorti en 2009 ?",
+    "choices": [
+      "Flappy Bird",
+      "Angry Birds",
+      "Doodle Jump",
+      "Crossy Road"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_048",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Dans le film « Retour vers le futur », à quelle vitesse exacte la DeLorean doit-elle rouler pour voyager dans le temps ?",
+    "choices": [
+      "88 miles à l'heure",
+      "100 miles à l'heure",
+      "77 miles à l'heure",
+      "99 miles à l'heure"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "pop_049",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quelle websérie française culte créée par François Descraques mettait en scène un visiteur venu sauver l'avenir de catastrophes absurdes ?",
+    "choices": [
+      "Noob",
+      "Le Visiteur du Futur",
+      "Kaamelott",
+      "Hero Corp"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_050",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel est le nom du studio d'animation à l'origine de « Demon Slayer » (Kimetsu no Yaiba), salué pour sa mise en scène spectaculaire ?",
+    "choices": [
+      "Mappa",
+      "Bones",
+      "ufotable",
+      "Wit Studio"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "pop_051",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel objet précieux Thanos cherche-t-il à réunir sur son gant doré dans l'univers cinématique Marvel ?",
+    "choices": [
+      "Les Anneaux de pouvoir",
+      "Les Pierres d'Infinité",
+      "Les Horcruxes",
+      "Les Émeraudes du Chaos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_052",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel compositeur suédois est l'auteur de la bande originale envoûtante et épurée du jeu « Minecraft » sous le pseudonyme C418 ?",
+    "choices": [
+      "Daniel Rosenfeld",
+      "Jesper Kyd",
+      "Gareth Coker",
+      "Christopher Larkin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "pop_053",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Dans la série animée « Rick et Morty », quel objet permet à Rick Sanchez de voyager instantanément entre les dimensions alternatives ?",
+    "choices": [
+      "Une DeLorean",
+      "Un Portal Gun",
+      "Une TARDIS",
+      "Un Plumbus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_054",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel jeu de tir en vue à la première personne d'Id Software a posé les bases modernes du genre du FPS en 1993 ?",
+    "choices": [
+      "Wolfenstein 3D",
+      "DOOM",
+      "Quake",
+      "Duke Nukem 3D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_055",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Dans « World of Warcraft », quel est le nom du monde principal où se déroule l'essentiel des conflits entre l'Alliance et la Horde ?",
+    "choices": [
+      "Sanctuaire",
+      "Azeroth",
+      "Draenor",
+      "Tyria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_056",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel célèbre streamer espagnol a battu le record mondial de spectateurs simultanés sur Twitch avec sa soirée de boxe « La Velada del Año » ?",
+    "choices": [
+      "Rubius",
+      "Auronplay",
+      "Ibai Llanos",
+      "TheGrefg"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "pop_057",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel manga de sport de Takehiko Inoue a fait exploser la popularité du basket-ball au Japon dans les années 1990 ?",
+    "choices": [
+      "Kuroko's Basket",
+      "Slam Dunk",
+      "Haikyu!!",
+      "Eyeshield 21"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_058",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel est le premier jeu vidéo de la saga « Souls » développé par FromSoftware et réalisé par Hidetaka Miyazaki en 2009 ?",
+    "choices": [
+      "Dark Souls",
+      "Demon's Souls",
+      "Bloodborne",
+      "King's Field"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_059",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quelle actrice et streamer a interprété la voix originale et incarné en capture de mouvement Ellie dans « The Last of Us » ?",
+    "choices": [
+      "Laura Bailey",
+      "Ashley Johnson",
+      "Troy Baker",
+      "Nolan North"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_060",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel streamer français a organisé le grand tournoi automobile de Formule 4 entre créateurs de contenu intitulé « GP Explorer » ?",
+    "choices": [
+      "Gotaga",
+      "Squeezie",
+      "Kameto",
+      "Amixem"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_061",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel anime de science-fiction culte de 1998 suit l'équipage de chasseurs de primes Spike Spiegel et Jet Black à bord d'un vaisseau spatial ?",
+    "choices": [
+      "Evangelion",
+      "Cowboy Bebop",
+      "Trigun",
+      "Ghost in the Shell"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_062",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel jeu d'action-aventure en monde ouvert de Rockstar Games suit les méfaits de Franklin, Michael et Trevor ?",
+    "choices": [
+      "Red Dead Redemption II",
+      "Grand Theft Auto V",
+      "Max Payne 3",
+      "Bully"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_063",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel personnage de BD en forme de grenouille verte anthropomorphe est devenu l'un des mèmes les plus détournés d'Internet ?",
+    "choices": [
+      "Kermit",
+      "Pepe the Frog",
+      "Crazy Frog",
+      "Dat Boi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_064",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel protocole informatique inventé par Tim Berners-Lee au CERN en 1989 est le fondement du partage de pages sur le Web ?",
+    "choices": [
+      "FTP",
+      "HTTP (World Wide Web)",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_065",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Dans la saga « Harry Potter », quelle créature miniature ailée dorée met fin au match de Quidditch dès qu'elle est attrapée ?",
+    "choices": [
+      "Le Souaffle",
+      "Le Cognard",
+      "Le Vif d'or",
+      "L'Éclair de feu"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "pop_066",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel jeu de cartes tactique développé par Blizzard Entertainment se déroule dans l'univers de Warcraft ?",
+    "choices": [
+      "Gwent",
+      "Artifact",
+      "Hearthstone",
+      "Legends of Runeterra"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "pop_067",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel créateur a imaginé les univers de mangas « Hunter × Hunter » et « Yu Yu Hakusho » ?",
+    "choices": [
+      "Hiro Mashima",
+      "Yoshihiro Togashi",
+      "Tite Kubo",
+      "Masashi Kishimoto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_068",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quel streamer français d'e-sport a cofondé la structure Karmine Corp (KCorp) avec Prime en 2020 ?",
+    "choices": [
+      "ZeratoR",
+      "Kameto",
+      "Domingo",
+      "Skyyart"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_069",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Quelle intelligence artificielle générative de texte lancée par OpenAI en novembre 2022 a bouleversé le web mondial ?",
+    "choices": [
+      "Midjourney",
+      "ChatGPT",
+      "Claude",
+      "Gemini"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_070",
+    "theme": "Pop culture & internet",
+    "difficulty": "Moyen",
+    "prompt": "Dans le jeu culte « Portal » de Valve, quelle phrase récurrente écrite par un évadé prévient le joueur qu'une récompense promise est une illusion ?",
+    "choices": [
+      "The cake is a lie",
+      "GLaDOS knows all",
+      "Still alive",
+      "Keep calm and test"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "pop_071",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quel message de 5 lettres devait être le premier mot transmis sur le réseau ARPANET en 1969 avant que le système ne plante après deux caractères ?",
+    "choices": [
+      "HELLO",
+      "LOGIN",
+      "START",
+      "WORLD"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_072",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quel est le pseudonyme de l'auteur ou du groupe d'auteurs ayant publié le livre blanc de Bitcoin en 2008 avant de disparaître en 2011 ?",
+    "choices": [
+      "Hal Finney",
+      "Satoshi Nakamoto",
+      "Nick Szabo",
+      "Wei Dai"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_073",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Dans « Neon Genesis Evangelion », quel nom donne-t-on au tout premier Ange qui s'est écrasé sur Terre et dont le corps est crucifié dans le Terminal Dogma ?",
+    "choices": [
+      "Lilith",
+      "Adam",
+      "Sachiel",
+      "Kaworu"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_074",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quel célèbre jeu de rôle roguelike gratuit en mode texte ASCII créé en 2006 par Tarn et Zach Adams a inspiré la création de « Minecraft » ?",
+    "choices": [
+      "NetHack",
+      "Dwarf Fortress",
+      "Rogue",
+      "Cataclysm: DDA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_075",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Dans la franchise « The Legend of Zelda: Ocarina of Time », quelle partition composée de 6 notes permet de faire passer le jour à la nuit instantanément ?",
+    "choices": [
+      "Le Chant de l'Épona",
+      "Le Chant du Soleil",
+      "Le Menuet des Bois",
+      "Le Boléro du Feu"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_076",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quel était le nom de code de la console Nintendo GameCube avant son annonce officielle et sa sortie en 2001 ?",
+    "choices": [
+      "Project Reality",
+      "Dolphin",
+      "Ultra 64",
+      "Revolution"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_077",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Dans « Dark Souls », quel anneau maudit permet de marcher dans les Abysses pour y affronter les Quatre Rois ?",
+    "choices": [
+      "L'anneau de Havel",
+      "Le Serment d'Artorias",
+      "L'anneau de Grâce protectrice",
+      "L'anneau de chloranthie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_078",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quel informaticien américain est à l'origine de l'introduction du premier émoticône typographique :-) et :-( sur un forum d'université en 1982 ?",
+    "choices": [
+      "Scott Fahlman",
+      "Vint Cerf",
+      "Ray Tomlinson",
+      "Bob Kahn"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "pop_079",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Dans le jeu indépendant « Celeste », comment s'appelle le versant angoissant et maléfique matérialisant l'anxiété de l'héroïne Madeline ?",
+    "choices": [
+      "Badeline (Part of Her)",
+      "Shadow Madeline",
+      "Chara",
+      "Mirror Girl"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "pop_080",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quel compositeur japonais a signé la bande originale mythique du JRPG « Chrono Trigger » avant d'être hospitalisé pour ulcère et relayé par Nobuo Uematsu ?",
+    "choices": [
+      "Yasunori Mitsuda",
+      "Yoko Shimomura",
+      "Koji Kondo",
+      "Hitoshi Sakimoto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "pop_081",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Sur quel site web d'hébergement d'images créé par Christopher Poole un utilisateur anonyme a-t-il posté pour la toute première fois le concept des 'Backrooms' en mai 2019 ?",
+    "choices": [
+      "Reddit /r/Creepy",
+      "4chan /x/ (Paranormal)",
+      "Imgur",
+      "SCP Foundation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_082",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quel était le premier nom d'entreprise sous lequel Google a été initialement développé par Larry Page et Sergey Brin en 1996 ?",
+    "choices": [
+      "PageRank Labs",
+      "BackRub",
+      "Googol Search",
+      "GlobalNet"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_083",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Dans l'univers étendu de « Star Wars » (Légendes), quel ancien Seigneur Sith a créé la 'Règle des Deux' stipulant qu'il ne doit y avoir qu'un maître et un apprenti ?",
+    "choices": [
+      "Dark Revan",
+      "Dark Malak",
+      "Dark Bane",
+      "Dark Nihilus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "pop_084",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quel streamer et joueur e-sport sud-coréen sur League of Legends est surnommé 'The Unkillable Demon King' et détient le record absolu de victoires aux Worlds ?",
+    "choices": [
+      "ShowMaker",
+      "Faker (Lee Sang-hyeok)",
+      "Rookie",
+      "Scout"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_085",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Dans « Hollow Knight », comment s'appelle la zone cauchemardesque remplie de piques et de scies circulaires dissimulée dans le Palais Blanc ?",
+    "choices": [
+      "Le Sentier de la Douleur (Path of Pain)",
+      "Le Colisée des Fous",
+      "Le Jardin de la Reine",
+      "Les Abîmes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "pop_086",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quel célèbre bug d'arcade survenait au 256e niveau de « Pac-Man » (1980), rendant la moitié droite de l'écran illisible à cause d'un dépassement d'octet ?",
+    "choices": [
+      "Le Glitch de l'Écran Fracturé",
+      "Le Kill Screen (ou Split-screen bug)",
+      "Le Freeze Byte",
+      "Le Ghost Warp"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_087",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Dans le manga « Hunter × Hunter », quel est le type de Nen du personnage de Kurapika lorsqu'il active ses yeux écarlates ?",
+    "choices": [
+      "La Transmutation",
+      "La Spécialisation",
+      "Le Renforcement",
+      "La Manipulation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_088",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quel ingénieur a envoyé le tout premier SMS de l'histoire le 3 décembre 1992 contenant le message 'Merry Christmas' ?",
+    "choices": [
+      "Neil Papworth",
+      "Martin Cooper",
+      "Philippe Kahn",
+      "Tim Berners-Lee"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "pop_089",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quel était le pseudonyme de la streameuse et speedrunneuse qui a terminé « Elden Ring » en utilisant simultanément un tapis de danse et une manette ?",
+    "choices": [
+      "MissMikkaa",
+      "Larissa",
+      "Gemma",
+      "Kokoa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "pop_090",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Dans l'histoire du jeu compétitif « Super Smash Bros. Melee », quel joueur mythique était surnommé 'The King of Smash' avant l'ère des Cinq Dieux ?",
+    "choices": [
+      "Ken Hoang",
+      "Mang0",
+      "Mew2King",
+      "Armada"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "pop_091",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quel était le titre du premier MMORPG graphique de l'histoire commerciale développé par Kelton Flinn et John Taylor en 1991 sur AOL ?",
+    "choices": [
+      "Ultima Online",
+      "Neverwinter Nights",
+      "EverQuest",
+      "Meridian 59"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_092",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Dans le manga culte « Akira » de Katsuhiro Otomo, en quelle année précise devait initialement se dérouler la destruction de Tokyo ouvrant l'histoire ?",
+    "choices": [
+      "1982",
+      "1988",
+      "1999",
+      "2019"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_093",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quel était le nom du prototype de console conçu en partenariat par Sony et Nintendo au début des années 90 avant la rupture de leur accord ?",
+    "choices": [
+      "Nintendo PlayStation (ou Super Disc)",
+      "Ultra CD",
+      "PlayStation One",
+      "Famicom Disc 2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "pop_094",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quel projet collaboratif massif sur Reddit réuni sur une toile blanche de pixels en temps réel s'est tenu pour la première fois le 1er avril 2017 ?",
+    "choices": [
+      "r/PixelArt",
+      "r/place",
+      "r/canvas",
+      "r/thebutton"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_095",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Dans « Bloodborne », quel boss cauchemardesque situé au village des pêcheurs manie un placenta tranchant et pleure sa mère Kos ?",
+    "choices": [
+      "Ludwig le Maudit",
+      "L'Orphelin de Kos",
+      "Lady Maria",
+      "Laurence le Premier Vicaire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_096",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quel virus informatique sous forme de ver script VBS a infecté plus de 50 millions d'ordinateurs dans le monde en mai 2000 avec une pièce jointe amoureuse ?",
+    "choices": [
+      "Melissa",
+      "ILOVEYOU (Love Bug)",
+      "Code Red",
+      "Sasser"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_097",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Dans la visual novel et anime culte « Steins;Gate », quel aliment Rintaro Okabe utilise-t-il pour ses premières expériences de téléportation temporelle dans son micro-ondes ?",
+    "choices": [
+      "Une pomme",
+      "Une banane (gelée)",
+      "Un œuf dur",
+      "Une tranche de pain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_098",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quel bug de programmation du jeu original « Pokémon Rouge et Bleu » permettait de rencontrer le Pokémon glitch 'MissingNo.' sur la côte de Cramois'Île ?",
+    "choices": [
+      "Le bug du Croupier",
+      "Le bug de l'homme âgé de Jadielle",
+      "Le bug du Clonage",
+      "Le bug de la Forêt de Jade"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "pop_099",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quel streamer américain et créateur d'événements a popularisé le terme 'Poggers' et fondé l'événement caritatif 'Subathon' marathon en direct ?",
+    "choices": [
+      "Ludwig Ahgren",
+      "xQc",
+      "Pokimane",
+      "Mizkif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "pop_100",
+    "theme": "Pop culture & internet",
+    "difficulty": "Difficile",
+    "prompt": "Quelle était la commande exacte de triche (le Konami Code) popularisée par Kazuhisa Hashimoto sur « Gradius » et « Contra » sur NES ?",
+    "choices": [
+      "Haut, Haut, Bas, Bas, Gauche, Droite, Gauche, Droite, B, A",
+      "Haut, Bas, Haut, Bas, Gauche, Gauche, Droite, Droite, A, B",
+      "Gauche, Droite, Gauche, Droite, Haut, Haut, Bas, Bas, A, B",
+      "Bas, Bas, Haut, Haut, Gauche, Droite, Gauche, Droite, B, A"
+    ],
+    "correctIndex": 0
+  }
+]

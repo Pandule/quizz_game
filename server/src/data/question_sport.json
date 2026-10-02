@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "spt_001",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Tous les combien d'années les Jeux olympiques d'été se déroulent-ils traditionnellement ?",
+    "choices": [
+      "2 ans",
+      "3 ans",
+      "4 ans",
+      "5 ans"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_002",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "En quelle année l'équipe de France masculine de football a-t-elle remporté sa première Coupe du monde ?",
+    "choices": [
+      "1984",
+      "1998",
+      "2006",
+      "2018"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_003",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Sur quelle surface se joue le tournoi du Grand Chelem de Roland-Garros ?",
+    "choices": [
+      "Le gazon",
+      "La terre battue",
+      "Le ciment",
+      "Le synthétique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_004",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Combien de joueurs d'une même équipe sont simultanément sur le terrain en basket-ball ?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_005",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Quelle couleur de maillot distingue le leader du classement général du Tour de France ?",
+    "choices": [
+      "Vert",
+      "Blanc à pois rouges",
+      "Jaune",
+      "Rose"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_006",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Combien de minutes dure un match de football professionnel réglementaire (hors arrêts de jeu et prolongations) ?",
+    "choices": [
+      "70 minutes",
+      "80 minutes",
+      "90 minutes",
+      "100 minutes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_007",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Quel sprinteur jamaïcain est devenu une légende vivante en réalisant le triplé 100 m / 200 m aux JO de 2008, 2012 et 2016 ?",
+    "choices": [
+      "Tyson Gay",
+      "Usain Bolt",
+      "Yohan Blake",
+      "Asafa Powell"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_008",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Dans quel sport utilise-t-on un volant au lieu d'une balle ?",
+    "choices": [
+      "Le squash",
+      "Le tennis de table",
+      "Le badminton",
+      "Le padel"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_009",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Combien de points rapporte un lancer franc réussi en basket-ball ?",
+    "choices": [
+      "1 point",
+      "2 points",
+      "3 points",
+      "4 points"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "spt_010",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Quel pays a remporté la Coupe du monde masculine de football en 2018 en Russie ?",
+    "choices": [
+      "La Croatie",
+      "La Belgique",
+      "La France",
+      "L'Angleterre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_011",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Dans quel sport collectif la règle du 'hors-jeu' et les 'mêlées' sont-elles centrales ?",
+    "choices": [
+      "Le handball",
+      "Le rugby à XV",
+      "Le volley-ball",
+      "Le water-polo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_012",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Combien de trous compte un parcours de golf standard complet ?",
+    "choices": [
+      "9",
+      "12",
+      "18",
+      "24"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_013",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Quelle nation du football est surnommée la 'Seleção' et a remporté 5 Coupes du monde masculines ?",
+    "choices": [
+      "L'Argentine",
+      "Le Portugal",
+      "Le Brésil",
+      "L'Uruguay"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_014",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Quel nageur américain est l'athlète le plus médaillé de l'histoire des Jeux olympiques avec 28 médailles ?",
+    "choices": [
+      "Michael Phelps",
+      "Ian Thorpe",
+      "Ryan Lochte",
+      "Caeleb Dressel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "spt_015",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Dans quel art martial japonais porte-t-on un kimono (judogi) et cherche-t-on à faire chuter l'adversaire ou l'immobiliser ?",
+    "choices": [
+      "Le karaté",
+      "Le judo",
+      "La boxe anglaise",
+      "Le taekwondo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_016",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Combien de joueurs par équipe composent une équipe de volley-ball sur le terrain ?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_017",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Quel joueur de tennis suisse a remporté 20 titres du Grand Chelem et incarné l'élégance sur gazon ?",
+    "choices": [
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Roger Federer",
+      "Stan Wawrinka"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_018",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Quelle discipline d'athlétisme consiste à franchir une barre horizontale à l'aide d'une longue perche flexible ?",
+    "choices": [
+      "Le saut en hauteur",
+      "Le triple saut",
+      "Le saut à la perche",
+      "Le saut en longueur"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_019",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Quel terme de tennis désigne un service gagnant que l'adversaire ne parvient même pas à toucher ?",
+    "choices": [
+      "Un smash",
+      "Un ace",
+      "Un let",
+      "Un passing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_020",
+    "theme": "Sport",
+    "difficulty": "Facile",
+    "prompt": "Dans quelle ville française se déroule chaque année la célèbre course d'endurance automobile de 24 heures ?",
+    "choices": [
+      "Monaco",
+      "Le Mans",
+      "Magny-Cours",
+      "Paul Ricard"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_021",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Combien de points vaut un essai non transformé au rugby à XV ?",
+    "choices": [
+      "3 points",
+      "4 points",
+      "5 points",
+      "7 points"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_022",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel joueur de football argentin a remporté la Coupe du monde 2022 et 8 Ballons d'Or au cours de sa carrière ?",
+    "choices": [
+      "Diego Maradona",
+      "Lionel Messi",
+      "Gabriel Batistuta",
+      "Sergio Agüero"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_023",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quelle est la distance exacte et officielle d'un marathon sur route ?",
+    "choices": [
+      "40,195 km",
+      "41,195 km",
+      "42,195 km",
+      "43,195 km"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_024",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel est le surnom officiel de l'équipe nationale néo-zélandaise masculine de rugby à XV ?",
+    "choices": [
+      "Les Wallabies",
+      "Les Springboks",
+      "Les All Blacks",
+      "Les Pumas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_025",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel club de football a remporté la toute première édition de la Ligue des champions sous son nouveau format en 1993 ?",
+    "choices": [
+      "Le FC Barcelone",
+      "L'Olympique de Marseille",
+      "L'AC Milan",
+      "Le Bayern Munich"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_026",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel basketteur américain des Chicago Bulls portait le mythique numéro 23 et a remporté six bagues NBA dans les années 1990 ?",
+    "choices": [
+      "Kobe Bryant",
+      "LeBron James",
+      "Michael Jordan",
+      "Magic Johnson"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_027",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Combien de Grands Chelems de tennis composent une saison complète ?",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_028",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Dans quel pays ont été organisés les premiers Jeux olympiques modernes en 1896 sous l'impulsion de Pierre de Coubertin ?",
+    "choices": [
+      "La France",
+      "La Grèce",
+      "Le Royaume-Uni",
+      "L'Italie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_029",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel boxeur légendaire s'est auto-proclamé 'The Greatest' et a remporté le combat 'Rumble in the Jungle' en 1974 ?",
+    "choices": [
+      "Mike Tyson",
+      "Joe Frazier",
+      "Mohamed Ali (Cassius Clay)",
+      "George Foreman"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_030",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel pilote allemand de Formule 1 a été sept fois champion du monde, notamment chez Ferrari ?",
+    "choices": [
+      "Sebastian Vettel",
+      "Nico Rosberg",
+      "Michael Schumacher",
+      "Alain Prost"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_031",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Dans quel sport attribue-t-on le trophée de la Coupe Davis ?",
+    "choices": [
+      "Le tennis",
+      "La voile",
+      "Le golf",
+      "Le polo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "spt_032",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quelle nation a remporté la première Coupe du monde masculine de football de l'histoire en 1930 à domicile ?",
+    "choices": [
+      "Le Brésil",
+      "L'Argentine",
+      "L'Uruguay",
+      "L'Italie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_033",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel club espagnol détient le record absolu de victoires en Ligue des champions de l'UEFA ?",
+    "choices": [
+      "Le FC Barcelone",
+      "L'Atlético de Madrid",
+      "Le Real Madrid",
+      "Le FC Séville"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_034",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Dans quelle ville américaine la franchise de basket-ball des Lakers a-t-elle remporté de multiples titres avec Kobe Bryant et Shaquille O'Neal ?",
+    "choices": [
+      "Chicago",
+      "Miami",
+      "Los Angeles",
+      "Boston"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_035",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Combien de temps dure une mi-temps de handball en catégorie senior ?",
+    "choices": [
+      "20 minutes",
+      "25 minutes",
+      "30 minutes",
+      "35 minutes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_036",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel gymnaste ou plutôt quelle gymnaste américaine a révolutionné sa discipline avec de multiples médailles d'or et des figures inédites à son nom ?",
+    "choices": [
+      "Nadia Comăneci",
+      "Simone Biles",
+      "Aliya Mustafina",
+      "Gabby Douglas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_037",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel cycliste belge des années 1960 et 1970 était surnommé 'Le Cannibale' en raison de sa domination outrageuse ?",
+    "choices": [
+      "Jacques Anquetil",
+      "Eddy Merckx",
+      "Bernard Hinault",
+      "Fausto Coppi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_038",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel tournoi du Grand Chelem de tennis est le seul à se disputer sur gazon ?",
+    "choices": [
+      "L'Open d'Australie",
+      "Roland-Garros",
+      "Wimbledon",
+      "L'US Open"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_039",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quelle discipline combine le ski de fond et le tir à la carabine ?",
+    "choices": [
+      "Le combiné nordique",
+      "Le biathlon",
+      "Le skeleton",
+      "Le bobsleigh"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_040",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel pilote français de Formule 1 a été sacré quatre fois champion du monde dans les années 1980 et 1990 ?",
+    "choices": [
+      "Jean Alesi",
+      "René Arnoux",
+      "Alain Prost",
+      "Didier Pironi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_041",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Combien de joueurs composent une équipe de baseball sur le terrain en phase défensive ?",
+    "choices": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_042",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel pays a remporté la Coupe du monde masculine de rugby à XV en 2023 en France ?",
+    "choices": [
+      "La Nouvelle-Zélande",
+      "L'Afrique du Sud",
+      "L'Angleterre",
+      "L'Australie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_043",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Dans quel sport d'hiver glisse-t-on à plat ventre sur une luge très basse lancée à plus de 130 km/h ?",
+    "choices": [
+      "La luge de course",
+      "Le skeleton",
+      "Le bobsleigh",
+      "Le curling"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_044",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quelle légende du football brésilien a été le premier à remporter trois Coupes du monde en tant que joueur (1958, 1962, 1970) ?",
+    "choices": [
+      "Garrincha",
+      "Pelé",
+      "Zico",
+      "Ronaldo Nazário"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_045",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel joueur de tennis espagnol est le maître incontesté de Roland-Garros avec 14 titres parisiens ?",
+    "choices": [
+      "Carlos Alcaraz",
+      "David Ferrer",
+      "Rafael Nadal",
+      "Juan Carlos Ferrero"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_046",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel trophée annuel très convoité récompense le champion de la ligue nord-américaine de hockey sur glace (NHL) ?",
+    "choices": [
+      "Le trophée Vince Lombardi",
+      "La Coupe Stanley",
+      "Le trophée Larry O'Brien",
+      "Le trophée des Commissaires"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_047",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Combien d'épreuves composent le décathlon en athlétisme masculin ?",
+    "choices": [
+      "7",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_048",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel joueur de football français a marqué un triplé en finale de la Coupe du monde 2022 ?",
+    "choices": [
+      "Antoine Griezmann",
+      "Kylian Mbappé",
+      "Olivier Giroud",
+      "Karim Benzema"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_049",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "En judo, quel score met fin immédiatement au combat par victoire parfaite ?",
+    "choices": [
+      "Waza-ari",
+      "Yuko",
+      "Ippon",
+      "Koka"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_050",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quelle nation domine historiquement les épreuves de tennis de table aux Jeux olympiques ?",
+    "choices": [
+      "La Corée du Sud",
+      "Le Japon",
+      "La Chine",
+      "L'Allemagne"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_051",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel événement cycliste sur route fait partie des 'cinq Monuments' et traverse des secteurs pavés redoutables dans le nord de la France ?",
+    "choices": [
+      "Le Tour des Flandres",
+      "Paris-Roubaix",
+      "Liège-Bastogne-Liège",
+      "Milan-San Remo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_052",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel joueur de basket-ball des Lakers est devenu le meilleur marqueur de l'histoire de la NBA en dépassant Kareem Abdul-Jabbar ?",
+    "choices": [
+      "Stephen Curry",
+      "Kevin Durant",
+      "LeBron James",
+      "James Harden"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_053",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Dans quel sport utilise-t-on un club appelé 'putter' ?",
+    "choices": [
+      "Le cricket",
+      "Le golf",
+      "Le polo",
+      "Le croquet"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_054",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quelle nageuse française a décroché la médaille d'or sur 400 m nage libre aux Jeux olympiques d'Athènes en 2004 ?",
+    "choices": [
+      "Camille Muffat",
+      "Laure Manaudou",
+      "Coralie Balmy",
+      "Alizée Baron"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_055",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel pays a inventé le rugby dans la ville éponyme au XIXe siècle ?",
+    "choices": [
+      "L'Écosse",
+      "L'Angleterre",
+      "L'Irlande",
+      "Le Pays de Galles"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_056",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Combien de rounds de 3 minutes composent un combat de boxe anglaise professionnelle pour un titre mondial masculin standard ?",
+    "choices": [
+      "10",
+      "12",
+      "15",
+      "8"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_057",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel est le record du monde du saut à la perche masculin détenu par le prodige suédois Armand Duplantis (franchissant régulièrement les 6,20 m) ?",
+    "choices": [
+      "Renaud Lavillenie",
+      "Armand Duplantis",
+      "Sergueï Bubka",
+      "Sam Kendricks"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_058",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel pilote britannique de Formule 1 partage le record de 7 titres mondiaux avec Michael Schumacher ?",
+    "choices": [
+      "Lando Norris",
+      "Lewis Hamilton",
+      "Nigel Mansell",
+      "Jenson Button"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_059",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Dans quel sport collectif les joueurs s'affrontent-ils dans l'eau pour marquer dans un but protégé par un gardien de but coiffé d'un bonnet de bain ?",
+    "choices": [
+      "La natation synchronisée",
+      "Le water-polo",
+      "L'aviron",
+      "Le plongeon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_060",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel club de football anglais est surnommé 'The Red Devils' (Les Diables Rouges) ?",
+    "choices": [
+      "Liverpool FC",
+      "Arsenal",
+      "Manchester United",
+      "Chelsea"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_061",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel athlète tchèque légendaire a réalisé l'exploit unique de remporter le 5 000 m, le 10 000 m et le marathon aux JO d'Helsinki en 1952 ?",
+    "choices": [
+      "Emil Zátopek",
+      "Paavo Nurmi",
+      "Lasse Virén",
+      "Haile Gebrselassie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "spt_062",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quelle compétition internationale féminine de tennis par équipes est l'équivalent historique de la Coupe Davis ?",
+    "choices": [
+      "La Hopman Cup",
+      "La Billie Jean King Cup (ex-Fed Cup)",
+      "La Laver Cup",
+      "L'United Cup"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_063",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quelle surface glacée utilise-t-on pour pratiquer le sport de précision consistant à faire glisser des pierres de granit vers une cible circulaire ?",
+    "choices": [
+      "La patinoire de curling",
+      "L'anneau de vitesse",
+      "La piste de bobsleigh",
+      "Le couloir de luge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "spt_064",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel joueur de football néerlandais a incarné le 'Football Total' dans les années 1970 avec l'Ajax et le FC Barcelone ?",
+    "choices": [
+      "Marco van Basten",
+      "Ruud Gullit",
+      "Johan Cruyff",
+      "Dennis Bergkamp"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_065",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Dans quelle discipline d'équitation évalue-t-on la soumission, l'élégance et la précision géométrique des figures exécutées par le cheval et son cavalier ?",
+    "choices": [
+      "Le saut d'obstacles",
+      "Le concours complet",
+      "Le dressage",
+      "Le reining"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_066",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Combien de points rapporte un panier marqué depuis l'extérieur de la ligne des 6,75 m en basket-ball FIBA ?",
+    "choices": [
+      "2 points",
+      "3 points",
+      "4 points",
+      "5 points"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_067",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel footballeur portugais aux cinq Ballons d'Or détient le record absolu de buts marqués en sélection nationale masculine ?",
+    "choices": [
+      "Eusébio",
+      "Luís Figo",
+      "Cristiano Ronaldo",
+      "Deco"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_068",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quelle prestigieuse course de voile en solitaire, sans escale et sans assistance, part tous les quatre ans des Sables-d'Olonne ?",
+    "choices": [
+      "La Route du Rhum",
+      "La Transat Jacques Vabre",
+      "Le Vendée Globe",
+      "La Solitaire du Figaro"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_069",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Quel coureur cycliste a remporté le Tour de France cinq fois consécutivement entre 1991 et 1995 ?",
+    "choices": [
+      "Laurent Fignon",
+      "Miguel Indurain",
+      "Marco Pantani",
+      "Pedro Delgado"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_070",
+    "theme": "Sport",
+    "difficulty": "Moyen",
+    "prompt": "Dans quel sport de combat originaire de Thaïlande utilise-t-on les poings, les pieds, les genoux et les coudes ?",
+    "choices": [
+      "Le taekwondo",
+      "Le judo",
+      "La boxe thaïlandaise (Muay-thaï)",
+      "Le krav maga"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_071",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quelle gymnaste roumaine a été la première de l'histoire olympique à obtenir la note parfaite de 10,0 aux barres asymétriques aux JO de Montréal en 1976 ?",
+    "choices": [
+      "Nelli Kim",
+      "Nadia Comăneci",
+      "Ecaterina Szabo",
+      "Simona Amânar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_072",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Dans quel pays d'Amérique du Sud le premier combat de boxe pour le titre mondial sous les règles du Marquis de Queensberry avec gants a-t-il été disputé par Sullivan ?",
+    "choices": [
+      "L'Uruguay",
+      "Les États-Unis (Mississippi)",
+      "Le Chili",
+      "L'Argentine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_073",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quel coureur éthiopien a couru et remporté le marathon des Jeux olympiques de Rome en 1960 pieds nus ?",
+    "choices": [
+      "Abebe Bikila",
+      "Mamo Wolde",
+      "Haile Gebrselassie",
+      "Kenenisa Bekele"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "spt_074",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quelle skieuse alpine slovène a établi en 2013 le record absolu de points marqués en une seule saison de Coupe du monde avec 2 414 points ?",
+    "choices": [
+      "Lindsey Vonn",
+      "Mikaela Shiffrin",
+      "Tina Maze",
+      "Janica Kostelić"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_075",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quel pilote brésilien de Formule 1, triple champion du monde, a trouvé la mort le 1er mai 1994 au virage de Tamburello sur le circuit d'Imola ?",
+    "choices": [
+      "Nelson Piquet",
+      "Emerson Fittipaldi",
+      "Ayrton Senna",
+      "Rubens Barrichello"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_076",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quel athlète afro-américain a humilié la propagande nazie en remportant quatre médailles d'or (100 m, 200 m, longueur, 4x100 m) aux JO de Berlin en 1936 ?",
+    "choices": [
+      "Ralph Metcalfe",
+      "Jesse Owens",
+      "Mack Robinson",
+      "Cornelius Johnson"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_077",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "En quelle année les premiers Jeux olympiques d'hiver de l'histoire se sont-ils déroulés à Chamonix, en France ?",
+    "choices": [
+      "1920",
+      "1924",
+      "1928",
+      "1932"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_078",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quel joueur de basket-ball NBA détient le record mythique de points inscrits en un seul match avec 100 points marqués en mars 1962 ?",
+    "choices": [
+      "Kareem Abdul-Jabbar",
+      "Wilt Chamberlain",
+      "Bill Russell",
+      "Elgin Baylor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_079",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Dans quelle ville espagnole le tout premier match officiel de la Coupe du monde de football 1982 a-t-il vu la Belgique battre l'Argentine de Maradona ?",
+    "choices": [
+      "Madrid",
+      "Barcelone (Camp Nou)",
+      "Séville",
+      "Valence"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_080",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quel athlète kényan est devenu en 2019 à Vienne le premier homme à passer sous la barre mythique des 2 heures au marathon (1h59'40\" lors d'un défi non officiel) ?",
+    "choices": [
+      "Kipchoge Keino",
+      "Eliud Kipchoge",
+      "Kelvin Kiptum",
+      "Paul Tergat"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_081",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quel sauteur américain a révolutionné la technique du saut en hauteur en sautant sur le dos lors des JO de Mexico en 1968 ?",
+    "choices": [
+      "Valeriy Brumel",
+      "Dick Fosbury",
+      "Javier Sotomayor",
+      "Dwight Stones"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_082",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Dans l'histoire du cyclisme, qui est le seul coureur à avoir remporté les trois Grands Tours (France, Italie, Espagne) au cours de sa carrière avec Eddy Merckx, Anquetil, Gimondi, Hinault, Contador et Froome ?",
+    "choices": [
+      "Vincenzo Nibali",
+      "Marco Pantani",
+      "Jan Ullrich",
+      "Alejandro Valverde"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "spt_083",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quel est le nom officiel du trophée remis aux vainqueurs de la Coupe du monde de rugby à XV masculine ?",
+    "choices": [
+      "La Coupe Webb Ellis",
+      "Le bouclier de Brennus",
+      "Le trophée Raeburn",
+      "La Coupe Calcutta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "spt_084",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quelle nation a remporté la toute première Coupe d'Afrique des Nations (CAN) de football en 1957 à Khartoum ?",
+    "choices": [
+      "Le Soudan",
+      "L'Égypte",
+      "L'Éthiopie",
+      "Le Ghana"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_085",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quel joueur soviétique puis ukrainien a été le tout premier joueur de champ de l'URSS à remporter le Ballon d'Or en 1963 ? (Piège : en 1963, c'est le seul gardien de l'histoire)",
+    "choices": [
+      "Oleg Blokhine",
+      "Lev Yachine",
+      "Igor Belanov",
+      "Valeri Voronine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_086",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quelle skieuse américaine détient le record absolu du plus grand nombre de victoires en Coupe du monde de ski alpin, dépassant les 86 victoires d'Ingemar Stenmark ?",
+    "choices": [
+      "Lindsey Vonn",
+      "Mikaela Shiffrin",
+      "Annemarie Moser-Pröll",
+      "Vreni Schneider"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_087",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quel athlète cubain détient depuis juillet 1993 le record du monde masculin de saut en hauteur avec un bond à 2,45 mètres ?",
+    "choices": [
+      "Javier Sotomayor",
+      "Mutaz Essa Barshim",
+      "Patrik Sjöberg",
+      "Bohdan Bondarenko"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "spt_088",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quel golfeur américain a réalisé le 'Tiger Slam' en détenant simultanément les quatre trophées majeurs du golf entre 2000 et 2001 ?",
+    "choices": [
+      "Jack Nicklaus",
+      "Arnold Palmer",
+      "Tiger Woods",
+      "Phil Mickelson"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_089",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Dans quelle ville s'est déroulé en 1975 le combat légendaire 'Thrilla in Manila' opposant Mohamed Ali à Joe Frazier ?",
+    "choices": [
+      "Cebu",
+      "Manille (Quezon City)",
+      "Davao",
+      "Makati"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_090",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quel joueur de tennis argentin a remporté l'US Open 1977 et Roland-Garros 1977, célèbre pour son coup entre les jambes surnommé la 'Gran Willy' ?",
+    "choices": [
+      "David Nalbandian",
+      "Guillermo Vilas",
+      "Juan Martín del Potro",
+      "Gastón Gaudio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_091",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quelle nageuse allemande a été la première femme à descendre sous la minute au 100 mètres nage libre en 1973 ?",
+    "choices": [
+      "Kornelia Ender",
+      "Dawn Fraser",
+      "Kristin Otto",
+      "Franziska van Almsick"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "spt_092",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quel pilote écossais de Formule 1, triple champion du monde, a été le premier à militer activement pour les mesures de sécurité modernes sur les circuits dans les années 60 et 70 ?",
+    "choices": [
+      "Jim Clark",
+      "Jackie Stewart",
+      "Graham Hill",
+      "Jochen Rindt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_093",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Dans l'histoire du football français, quel club détient le record de victoires consécutives en finale de la Coupe de France avec 5 victoires d'affilée (ou 4 entre 2015 et 2018) ?",
+    "choices": [
+      "L'Olympique de Marseille",
+      "L'AS Saint-Étienne",
+      "Le Paris Saint-Germain",
+      "Le LOSC"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "spt_094",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quel joueur d'échecs américain est devenu champion du monde en 1972 à Reykjavik en battant le Soviétique Boris Spassky lors du 'Match du Siècle' ?",
+    "choices": [
+      "Bobby Fischer",
+      "Garry Kasparov",
+      "Paul Morphy",
+      "Samuel Reshevsky"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "spt_095",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quel pays a remporté la médaille d'or masculine de water-polo aux Jeux olympiques de Melbourne en 1956 lors du célèbre match violent 'Bain de sang de Melbourne' ?",
+    "choices": [
+      "L'Union soviétique",
+      "La Hongrie",
+      "La Yougoslavie",
+      "L'Italie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_096",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quel coureur de demi-fond britannique a été le premier homme de l'histoire à franchir la barrière du 'mile en moins de 4 minutes' en mai 1954 ?",
+    "choices": [
+      "Roger Bannister",
+      "Sebastian Coe",
+      "Steve Cram",
+      "Steve Ovett"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "spt_097",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quel record du monde d'athlétisme masculin, établi en août 1995 avec un triple saut mesuré à 18,29 mètres, tient toujours aujourd'hui ?",
+    "choices": [
+      "Christian Taylor",
+      "Jonathan Edwards",
+      "Kenny Harrison",
+      "Teddy Tamgho"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_098",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Dans quelle ville s'est tenue la finale du championnat d'Europe de football 1976 où le Tchécoslovaque Antonín Panenka a inventé son tir au but lobé ?",
+    "choices": [
+      "Belgrade",
+      "Zagreb",
+      "Prague",
+      "Vienne"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "spt_099",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quel barreur néo-zélandais a mené le Team New Zealand à la victoire lors de la Coupe de l'America 1995 en balayant les Américains 5-0 ?",
+    "choices": [
+      "Peter Blake",
+      "Russell Coutts",
+      "Grant Dalton",
+      "Dean Barker"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "spt_100",
+    "theme": "Sport",
+    "difficulty": "Difficile",
+    "prompt": "Quelle judokate japonaise, septuple championne du monde des poids super-légers (-48 kg), a été sacrée championne olympique à Sydney en 2000 après deux médailles d'argent ?",
+    "choices": [
+      "Ryoko Tani (Tamura)",
+      "Kaori Matsumoto",
+      "Ayumi Tanimoto",
+      "Masae Ueno"
+    ],
+    "correctIndex": 0
+  }
+]

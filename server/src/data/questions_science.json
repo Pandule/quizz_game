@@ -1,0 +1,1303 @@
+[
+  {
+    "id": "sci_001",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Quelle est la formule chimique de l'eau ?",
+    "choices": [
+      "H2O",
+      "CO2",
+      "O2",
+      "NaCl"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sci_002",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Quelle est la planète la plus proche du Soleil ?",
+    "choices": [
+      "Vénus",
+      "Mars",
+      "Mercure",
+      "Jupiter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_003",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?",
+    "choices": [
+      "L'oxygène",
+      "L'azote",
+      "Le dioxyde de carbone",
+      "L'hélium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_004",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Combien de pattes possède une araignée ?",
+    "choices": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_005",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "À quelle température l'eau bout-elle au niveau de la mer ?",
+    "choices": [
+      "50 °C",
+      "90 °C",
+      "100 °C",
+      "120 °C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_006",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Quel est le satellite naturel de la Terre ?",
+    "choices": [
+      "Le Soleil",
+      "Mars",
+      "La Lune",
+      "Titan"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_007",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Quel métal est liquide à température ambiante ?",
+    "choices": [
+      "L'or",
+      "Le plomb",
+      "Le fer",
+      "Le mercure"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sci_008",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Lequel de ces animaux est un mammifère marin ?",
+    "choices": [
+      "Le requin",
+      "Le dauphin",
+      "Le pingouin",
+      "La tortue"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_009",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Quel organe est le centre de notre système nerveux ?",
+    "choices": [
+      "Le cœur",
+      "Le foie",
+      "Le cerveau",
+      "Les poumons"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_010",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Quel phénomène transforme une chenille en papillon ?",
+    "choices": [
+      "La mue",
+      "La métamorphose",
+      "L'éclosion",
+      "La photosynthèse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_011",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Quelle force nous empêche de flotter dans les airs ?",
+    "choices": [
+      "Le magnétisme",
+      "La gravité",
+      "L'inertie",
+      "La friction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_012",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Quelle étoile est au centre de notre système solaire ?",
+    "choices": [
+      "Sirius",
+      "Proxima Centauri",
+      "Le Soleil",
+      "L'Étoile Polaire"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_013",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Combien y a-t-il de couleurs principales dans un arc-en-ciel ?",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_014",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Quel animal est célèbre pour sa capacité à changer de couleur ?",
+    "choices": [
+      "L'iguane",
+      "Le caméléon",
+      "Le gecko",
+      "Le varan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_015",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Comment appelle-t-on l'eau à l'état solide ?",
+    "choices": [
+      "La vapeur",
+      "La rosée",
+      "La glace",
+      "Le brouillard"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_016",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Quel instrument utilise-t-on pour observer les étoiles ?",
+    "choices": [
+      "Un microscope",
+      "Un stéthoscope",
+      "Un télescope",
+      "Un périscope"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_017",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Quel oiseau est réputé pour ne pas pouvoir voler ?",
+    "choices": [
+      "Le colibri",
+      "L'autruche",
+      "L'aigle",
+      "Le pigeon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_018",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Quel sens est principalement lié à la peau ?",
+    "choices": [
+      "L'odorat",
+      "L'ouïe",
+      "Le toucher",
+      "Le goût"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_019",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Comment s'appelle notre galaxie ?",
+    "choices": [
+      "Andromède",
+      "La Voie lactée",
+      "Le Grand Nuage de Magellan",
+      "Le Sombrero"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_020",
+    "theme": "Sciences & nature",
+    "difficulty": "Facile",
+    "prompt": "Qui pond les œufs ?",
+    "choices": [
+      "Les mammifères vivipares",
+      "Les oiseaux et reptiles",
+      "Les plantes",
+      "Les bactéries"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_021",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel est le symbole chimique de l'or ?",
+    "choices": [
+      "Or",
+      "Au",
+      "Ag",
+      "Fe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_022",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Combien de paires de chromosomes possède une cellule humaine normale ?",
+    "choices": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_023",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Qui a découvert la pénicilline ?",
+    "choices": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Marie Curie",
+      "Robert Koch"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_024",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel groupe sanguin est considéré comme le donneur universel ?",
+    "choices": [
+      "A+",
+      "AB-",
+      "O-",
+      "B+"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_025",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Que mesure l'échelle de Richter ?",
+    "choices": [
+      "La force des vents",
+      "L'acidité d'un liquide",
+      "La magnitude des séismes",
+      "L'intensité lumineuse"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_026",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel est le plus grand organe du corps humain ?",
+    "choices": [
+      "Le foie",
+      "L'intestin grêle",
+      "La peau",
+      "Le cerveau"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_027",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel composant de la cellule est souvent appelé 'la centrale énergétique' ?",
+    "choices": [
+      "Le noyau",
+      "Le ribosome",
+      "La mitochondrie",
+      "Le chloroplaste"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_028",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quelle vitamine est synthétisée par la peau sous l'effet du soleil ?",
+    "choices": [
+      "Vitamine A",
+      "Vitamine C",
+      "Vitamine D",
+      "Vitamine B12"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_029",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel os est le plus long du corps humain ?",
+    "choices": [
+      "Le tibia",
+      "Le fémur",
+      "L'humérus",
+      "Le péroné"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_030",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Qui a formulé la loi de la gravitation universelle ?",
+    "choices": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galilée",
+      "Johannes Kepler"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_031",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel est l'élément le plus abondant dans l'Univers ?",
+    "choices": [
+      "L'hydrogène",
+      "L'hélium",
+      "Le carbone",
+      "L'oxygène"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sci_032",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quelle est l'unité de mesure de la résistance électrique ?",
+    "choices": [
+      "Le Watt",
+      "Le Volt",
+      "L'Ampère",
+      "L'Ohm"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sci_033",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Dans quelle partie du corps humain trouve-t-on le marteau, l'enclume et l'étrier ?",
+    "choices": [
+      "Le genou",
+      "La colonne vertébrale",
+      "L'oreille",
+      "La gorge"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_034",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel scientifique est célèbre pour la théorie de l'évolution par la sélection naturelle ?",
+    "choices": [
+      "Gregor Mendel",
+      "Charles Darwin",
+      "Jean-Baptiste de Lamarck",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_035",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quelle particule de l'atome porte une charge électrique positive ?",
+    "choices": [
+      "L'électron",
+      "Le proton",
+      "Le neutron",
+      "Le photon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_036",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quelle est la vitesse approximative du son dans l'air à 20°C ?",
+    "choices": [
+      "340 m/s",
+      "1 000 m/s",
+      "300 000 km/s",
+      "150 m/s"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sci_037",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel gaz compose environ 78 % de l'atmosphère terrestre ?",
+    "choices": [
+      "L'oxygène",
+      "Le dioxyde de carbone",
+      "L'azote",
+      "L'argon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_038",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Comment s'appelle le phénomène de division cellulaire aboutissant à deux cellules identiques ?",
+    "choices": [
+      "La méiose",
+      "La mitose",
+      "La phagocytose",
+      "L'apoptose"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_039",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel acide est principalement présent dans notre estomac pour la digestion ?",
+    "choices": [
+      "Acide sulfurique",
+      "Acide chlorhydrique",
+      "Acide citrique",
+      "Acide acétique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_040",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quelle est la plus grande planète du système solaire ?",
+    "choices": [
+      "Saturne",
+      "Neptune",
+      "Jupiter",
+      "Uranus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_041",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quelle protéine donne sa couleur rouge au sang ?",
+    "choices": [
+      "La kératine",
+      "La mélanine",
+      "L'hémoglobine",
+      "L'insuline"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_042",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel botaniste a posé les bases de la génétique avec ses expériences sur les pois ?",
+    "choices": [
+      "Louis Pasteur",
+      "Gregor Mendel",
+      "Francis Crick",
+      "Rosalind Franklin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_043",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Comment appelle-t-on les animaux qui ne régulent pas leur température interne (animaux à 'sang froid') ?",
+    "choices": [
+      "Endothermes",
+      "Ectothermes",
+      "Homéothermes",
+      "Marsupiaux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_044",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quelle hormone est principalement sécrétée en situation de stress ou de danger ?",
+    "choices": [
+      "L'ocytocine",
+      "La mélatonine",
+      "L'adrénaline",
+      "La dopamine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_045",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel est l'âge approximatif de la Terre ?",
+    "choices": [
+      "4,5 millions d'années",
+      "4,5 milliards d'années",
+      "13,8 milliards d'années",
+      "100 milliards d'années"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_046",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Qu'étudie un entomologiste ?",
+    "choices": [
+      "Les champignons",
+      "Les insectes",
+      "Les roches",
+      "Les poissons"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_047",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quelle force s'oppose au mouvement relatif de deux surfaces en contact ?",
+    "choices": [
+      "La poussée d'Archimède",
+      "Le frottement",
+      "La tension",
+      "La force centrifuge"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_048",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel élément a pour symbole 'Na' ?",
+    "choices": [
+      "Le Sodium",
+      "Le Néon",
+      "Le Nickel",
+      "L'Azote"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sci_049",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Qui a découvert la radioactivité naturelle ?",
+    "choices": [
+      "Marie Curie",
+      "Henri Becquerel",
+      "Pierre Curie",
+      "Wilhelm Röntgen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_050",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Comment s'appelait le premier mammifère cloné à partir d'une cellule adulte ?",
+    "choices": [
+      "Laïka",
+      "Dolly",
+      "Mickey",
+      "Snoopy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_051",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel composant sanguin est essentiel pour la coagulation ?",
+    "choices": [
+      "Les globules rouges",
+      "Les globules blancs",
+      "Les plaquettes",
+      "Le plasma"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_052",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Comment appelle-t-on le passage direct de l'état solide à l'état gazeux ?",
+    "choices": [
+      "L'évaporation",
+      "La sublimation",
+      "La condensation",
+      "La fusion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_053",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Où a lieu la fécondation chez l'être humain ?",
+    "choices": [
+      "L'utérus",
+      "L'ovaire",
+      "La trompe de Fallope",
+      "Le vagin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_054",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel nuage est généralement associé aux orages et à la foudre ?",
+    "choices": [
+      "Le cirrus",
+      "Le stratus",
+      "Le cumulus",
+      "Le cumulonimbus"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sci_055",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "De quoi est principalement constituée la coquille d'un œuf d'oiseau ?",
+    "choices": [
+      "Silice",
+      "Carbonate de calcium",
+      "Kératine",
+      "Cellulose"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_056",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Que signifie l'acronyme ADN ?",
+    "choices": [
+      "Acide DésoxyriboNucléique",
+      "Acide Dinucléaire",
+      "Agent De Nutrition",
+      "Acide Double Nucléotide"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sci_057",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Qui a inventé la première pile électrique ?",
+    "choices": [
+      "Thomas Edison",
+      "Alessandro Volta",
+      "Nikola Tesla",
+      "Benjamin Franklin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_058",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel nom donne-t-on à un matériau qui ne laisse pas passer le courant électrique ?",
+    "choices": [
+      "Un conducteur",
+      "Un semi-conducteur",
+      "Un isolant",
+      "Un supraconducteur"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_059",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel type de roche est formé par le refroidissement du magma ?",
+    "choices": [
+      "Roche sédimentaire",
+      "Roche métamorphique",
+      "Roche magmatique",
+      "Roche calcaire"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_060",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quelle maladie est causée par une carence sévère en vitamine C ?",
+    "choices": [
+      "Le rachitisme",
+      "Le scorbut",
+      "Le béribéri",
+      "La pellagre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_061",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Combien de liaisons covalentes le carbone peut-il former ?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_062",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel est le processus par lequel les plantes perdent de l'eau sous forme de vapeur ?",
+    "choices": [
+      "La sudation",
+      "L'évapotranspiration",
+      "La condensation",
+      "La sublimation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_063",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel scientifique a développé la théorie de la relativité restreinte et générale ?",
+    "choices": [
+      "Niels Bohr",
+      "Max Planck",
+      "Albert Einstein",
+      "Stephen Hawking"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_064",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Qu'est-ce qu'une année-lumière ?",
+    "choices": [
+      "Une unité de temps",
+      "Une unité de vitesse",
+      "Une unité de distance",
+      "Une unité de luminosité"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_065",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Laquelle de ces planètes ne possède pas d'anneaux ?",
+    "choices": [
+      "Jupiter",
+      "Saturne",
+      "Mars",
+      "Uranus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_066",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel est le pH de l'eau pure à 25 °C ?",
+    "choices": [
+      "0",
+      "5",
+      "7",
+      "14"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_067",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quelle partie de l'œil régule la quantité de lumière qui y pénètre ?",
+    "choices": [
+      "La cornée",
+      "Le cristallin",
+      "La rétine",
+      "L'iris"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sci_068",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Qu'est-ce qu'un trou noir ?",
+    "choices": [
+      "Une étoile très brillante",
+      "Une région de l'espace à la gravité si intense que rien ne s'en échappe",
+      "Un portail vers une autre galaxie",
+      "Un astéroïde très dense"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_069",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel organe filtre le sang pour produire l'urine ?",
+    "choices": [
+      "Le foie",
+      "La vessie",
+      "Le rein",
+      "Le pancréas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_070",
+    "theme": "Sciences & nature",
+    "difficulty": "Moyen",
+    "prompt": "Quel terme désigne la quantité de matière dans un objet ?",
+    "choices": [
+      "Le poids",
+      "Le volume",
+      "La densité",
+      "La masse"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sci_071",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quelle particule élémentaire est le boson médiateur de la force nucléaire forte ?",
+    "choices": [
+      "Le photon",
+      "Le gluon",
+      "Le boson W",
+      "Le graviton"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_072",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quelle est la valeur approximative de la constante de Planck ?",
+    "choices": [
+      "6,626 × 10^-34 J·s",
+      "3,00 × 10^8 m/s",
+      "1,602 × 10^-19 C",
+      "6,022 × 10^23 mol^-1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sci_073",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "En biologie moléculaire, quelle enzyme est responsable de la transcription de l'ADN en ARN ?",
+    "choices": [
+      "L'ADN hélicase",
+      "L'ARN polymérase",
+      "La ligase",
+      "La transcriptase inverse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_074",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Qui a démontré les théorèmes d'incomplétude affirmant que tout système formel cohérent contient des propositions indécidables ?",
+    "choices": [
+      "David Hilbert",
+      "Alan Turing",
+      "Kurt Gödel",
+      "John von Neumann"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_075",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quel élément chimique, ayant le plus haut point de fusion de tous les métaux, porte le numéro atomique 74 ?",
+    "choices": [
+      "L'osmium",
+      "Le tungstène",
+      "L'iridium",
+      "Le rhénium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_076",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Laquelle de ces lois stipule que l'entropie d'un système isolé ne peut que croître avec le temps ?",
+    "choices": [
+      "La loi de Hooke",
+      "Le premier principe de la thermodynamique",
+      "Le deuxième principe de la thermodynamique",
+      "La loi de Boyle-Mariotte"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_077",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Comment se nomme le processus de mort cellulaire programmée ?",
+    "choices": [
+      "La nécrose",
+      "L'apoptose",
+      "L'autophagie",
+      "La lyse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_078",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "En mécanique quantique, qu'est-ce que l'effet Casimir ?",
+    "choices": [
+      "L'émission d'électrons par un métal éclairé",
+      "L'intrication de deux particules",
+      "Une force attractive entre deux plaques conductrices non chargées dans le vide",
+      "Le rayonnement émis par un trou noir"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_079",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quel est le nom de la première exoplanète découverte en orbite autour d'une étoile de type solaire (en 1995) ?",
+    "choices": [
+      "Kepler-186f",
+      "Proxima Centauri b",
+      "Gliese 581 c",
+      "51 Pegasi b"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sci_080",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quel mathématicien et physicien a unifié l'électricité et le magnétisme avec ses 4 équations célèbres ?",
+    "choices": [
+      "James Clerk Maxwell",
+      "Michael Faraday",
+      "Heinrich Hertz",
+      "André-Marie Ampère"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sci_081",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quel est le principal composant structurel de l'exosquelette des arthropodes et de la paroi des champignons ?",
+    "choices": [
+      "La cellulose",
+      "La kératine",
+      "Le peptidoglycane",
+      "La chitine"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sci_082",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Dans quel organite cellulaire se déroule principalement le cycle de Krebs ?",
+    "choices": [
+      "L'appareil de Golgi",
+      "Le réticulum endoplasmique",
+      "La mitochondrie",
+      "Le lysosome"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_083",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quelle est l'unité de mesure de l'inductance électrique dans le Système international ?",
+    "choices": [
+      "Le Farad",
+      "Le Tesla",
+      "Le Weber",
+      "Le Henry"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sci_084",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quel os du corps humain, situé dans l'oreille moyenne, est le plus petit ?",
+    "choices": [
+      "Le marteau",
+      "L'enclume",
+      "Le scaphoïde",
+      "L'étrier (stapes)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sci_085",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Qui a formulé le principe d'exclusion stipulant que deux fermions identiques ne peuvent occuper le même état quantique ?",
+    "choices": [
+      "Werner Heisenberg",
+      "Wolfgang Pauli",
+      "Erwin Schrödinger",
+      "Niels Bohr"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_086",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "De quelle maladie neurodégénérative la destruction de la gaine de myéline est-elle la principale caractéristique ?",
+    "choices": [
+      "La maladie de Parkinson",
+      "La sclérose en plaques",
+      "La maladie d'Alzheimer",
+      "La sclérose latérale amyotrophique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_087",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quelle molécule constitue la principale réserve d'énergie à court terme dans les muscles et le foie des animaux ?",
+    "choices": [
+      "L'amidon",
+      "Les triglycérides",
+      "Le glycogène",
+      "Le glucagon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_088",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Qu'est-ce que la limite de Chandrasekhar ?",
+    "choices": [
+      "La distance minimale entre un astre et son satellite avant dislocation",
+      "La masse maximale possible pour une naine blanche",
+      "La vitesse de libération d'un trou noir",
+      "La température absolue du zéro quantique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_089",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quelle bactérie a été identifiée comme la cause principale des ulcères gastroduodénaux ?",
+    "choices": [
+      "Escherichia coli",
+      "Helicobacter pylori",
+      "Staphylococcus aureus",
+      "Salmonella typhi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_090",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quel théorème relie les symétries continues d'un système physique aux lois de conservation ?",
+    "choices": [
+      "Le théorème de Pythagore",
+      "Le théorème de Bell",
+      "Le théorème de Noether",
+      "Le théorème d'Euler"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_091",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quel est le seul acide aminé dont le codon (AUG) sert de codon initiateur lors de la traduction de l'ARNm ?",
+    "choices": [
+      "La leucine",
+      "La méthionine",
+      "La glycine",
+      "Le tryptophane"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_092",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quelle théorie cosmologique décrit l'évolution de l'univers avec l'énergie noire et la matière noire froide ?",
+    "choices": [
+      "La théorie des cordes",
+      "Le modèle de l'état stationnaire",
+      "Le modèle de l'Univers ekpyrotique",
+      "Le modèle Lambda-CDM"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sci_093",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Comment appelle-t-on la mutation génétique responsable de la mucoviscidose (le plus souvent) ?",
+    "choices": [
+      "Trisomie 21",
+      "Délétion F508del (gène CFTR)",
+      "Mutation BRCA1",
+      "Chromosomes Philadelphie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_094",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quel phénomène physique décrit le changement de fréquence d'une onde perçu par un observateur en mouvement par rapport à la source ?",
+    "choices": [
+      "L'effet Compton",
+      "L'effet photoélectrique",
+      "L'effet Doppler-Fizeau",
+      "La diffraction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_095",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quel duo de physiciens a découvert par hasard le fond diffus cosmologique en 1964 ?",
+    "choices": [
+      "Watson et Crick",
+      "Penzias et Wilson",
+      "Michelson et Morley",
+      "Bohr et Einstein"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_096",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Comment s'appelle l'effet par lequel un courant électrique de haute fréquence a tendance à ne circuler qu'à la périphérie d'un conducteur ?",
+    "choices": [
+      "L'effet Hall",
+      "L'effet Joule",
+      "L'effet de peau (ou effet pelliculaire)",
+      "L'effet Meissner"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_097",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Dans la structure en double hélice de l'ADN, quel type de liaison maintient les bases azotées appariées ?",
+    "choices": [
+      "Liaisons covalentes",
+      "Liaisons ioniques",
+      "Liaisons hydrogène",
+      "Liaisons de van der Waals"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci_098",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quelle époque géologique (et subdivision de l'Holocène) est actuellement considérée par certains géologues pour marquer l'impact global de l'humanité ?",
+    "choices": [
+      "L'Anthropocène",
+      "Le Pléistocène",
+      "Le Pliocène",
+      "L'Éocène"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sci_099",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quelle particule hypothétique (ou modèle) voyagerait plus vite que la lumière ?",
+    "choices": [
+      "Le neutrino",
+      "Le tachyon",
+      "Le boson de Higgs",
+      "Le pion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci_100",
+    "theme": "Sciences & nature",
+    "difficulty": "Difficile",
+    "prompt": "Quel nom donne-t-on à une étoile à neutrons qui tourne très rapidement sur elle-même en émettant des faisceaux de rayonnement électromagnétique ?",
+    "choices": [
+      "Un quasar",
+      "Une naine brune",
+      "Un pulsar",
+      "Un magnétar"
+    ],
+    "correctIndex": 2
+  }
+]
+

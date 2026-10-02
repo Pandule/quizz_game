@@ -1,0 +1,1302 @@
+[
+     {
+    "id": "cg_v3_001",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Quelle est la capitale de l'Italie ?",
+    "choices": [
+      "Venise",
+      "Florence",
+      "Rome",
+      "Naples"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_002",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Sur quel continent se trouve le désert du Sahara ?",
+    "choices": [
+      "Asie",
+      "Amérique du Sud",
+      "Océanie",
+      "Afrique"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_003",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Qui a peint la Joconde ?",
+    "choices": [
+      "Claude Monet",
+      "Vincent van Gogh",
+      "Léonard de Vinci",
+      "Pablo Picasso"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_004",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Quel océan sépare l'Europe de l'Amérique du Nord ?",
+    "choices": [
+      "Océan Indien",
+      "Océan Atlantique",
+      "Océan Pacifique",
+      "Océan Arctique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_005",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Qui a été le premier homme à marcher sur la Lune ?",
+    "choices": [
+      "Youri Gagarine",
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Michael Collins"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_006",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Quel oiseau est universellement reconnu comme le symbole de la paix ?",
+    "choices": [
+      "L'aigle",
+      "La colombe",
+      "Le cygne",
+      "La chouette"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_007",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Quel célèbre écrivain français a écrit « Les Misérables » ?",
+    "choices": [
+      "Émile Zola",
+      "Gustave Flaubert",
+      "Honoré de Balzac",
+      "Victor Hugo"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_008",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Quelle est la capitale de l'Espagne ?",
+    "choices": [
+      "Barcelone",
+      "Madrid",
+      "Séville",
+      "Valence"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_009",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "En quelle année a débuté la Seconde Guerre mondiale ?",
+    "choices": [
+      "1914",
+      "1918",
+      "1939",
+      "1945"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_010",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Quel est le plus grand continent du monde ?",
+    "choices": [
+      "L'Afrique",
+      "L'Amérique",
+      "L'Asie",
+      "L'Europe"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_011",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Dans la mythologie romaine, qui est la déesse de l'amour et de la beauté ?",
+    "choices": [
+      "Minerve",
+      "Junon",
+      "Diane",
+      "Vénus"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_012",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Quel pays européen a la forme d'une botte ?",
+    "choices": [
+      "La Grèce",
+      "L'Espagne",
+      "L'Italie",
+      "Le Portugal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_013",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Quel est le plus haut sommet du monde ?",
+    "choices": [
+      "Le Kilimandjaro",
+      "Le Mont Blanc",
+      "Le K2",
+      "Le mont Everest"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_014",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Quel navigateur a découvert l'Amérique en 1492 ?",
+    "choices": [
+      "Fernand de Magellan",
+      "Christophe Colomb",
+      "Vasco de Gama",
+      "Marco Polo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_015",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Quel était le surnom du roi de France Louis XIV ?",
+    "choices": [
+      "Le Roi Maudit",
+      "Le Roi Soleil",
+      "Le Juste",
+      "Le Bien-Aimé"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_016",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Quel est le plus long fleuve de France ?",
+    "choices": [
+      "La Seine",
+      "Le Rhône",
+      "La Garonne",
+      "La Loire"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_017",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Quelle ville américaine est surnommée « La Grosse Pomme » (The Big Apple) ?",
+    "choices": [
+      "Los Angeles",
+      "Chicago",
+      "New York",
+      "Miami"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_018",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Quelle est la monnaie officielle du Royaume-Uni ?",
+    "choices": [
+      "L'Euro",
+      "Le Dollar",
+      "Le Franc suisse",
+      "La Livre sterling"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_019",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Quel fleuve traverse la ville de Paris ?",
+    "choices": [
+      "La Loire",
+      "La Seine",
+      "Le Rhône",
+      "La Tamise"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_020",
+    "theme": "Culture générale",
+    "difficulty": "Facile",
+    "prompt": "Combien de couleurs y a-t-il sur le drapeau de la France ?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_021",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quelle est la capitale de l'Australie ?",
+    "choices": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Brisbane"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_022",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Qui a écrit le roman « L'Étranger » paru en 1942 ?",
+    "choices": [
+      "Jean-Paul Sartre",
+      "Boris Vian",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_023",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Dans la mythologie grecque, qui est le dieu du feu, de la forge et des volcans ?",
+    "choices": [
+      "Arès",
+      "Apollon",
+      "Hermès",
+      "Héphaïstos"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_024",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "En quelle année le Mur de Berlin est-il tombé ?",
+    "choices": [
+      "1987",
+      "1989",
+      "1991",
+      "1993"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_025",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel artiste a peint « La Nuit étoilée » ?",
+    "choices": [
+      "Vincent van Gogh",
+      "Salvador Dalí",
+      "Claude Monet",
+      "Edvard Munch"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "cg_v3_026",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel est le plus petit État souverain du monde ?",
+    "choices": [
+      "Monaco",
+      "Saint-Marin",
+      "Le Liechtenstein",
+      "Le Vatican"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_027",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel est le plus long fleuve du monde ?",
+    "choices": [
+      "Le Nil",
+      "L'Amazone",
+      "Le Yangtsé",
+      "Le Mississippi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_028",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel traité de 1919 a mis fin à la Première Guerre mondiale ?",
+    "choices": [
+      "Traité de Trianon",
+      "Traité de Sèvres",
+      "Traité de Versailles",
+      "Traité de Vienne"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_029",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel sculpteur français est l'auteur du « Penseur » ?",
+    "choices": [
+      "Camille Claudel",
+      "Antoine Bourdelle",
+      "Auguste Rodin",
+      "Jean-Antoine Houdon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_030",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quelle est la capitale de la Turquie ?",
+    "choices": [
+      "Istanbul",
+      "Ankara",
+      "Izmir",
+      "Antalya"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_031",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Comment s'appelle l'épée magique du Roi Arthur ?",
+    "choices": [
+      "Durandal",
+      "Excalibur",
+      "Joyeuse",
+      "Gram"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_032",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel roi de France a été guillotiné en 1793 ?",
+    "choices": [
+      "Louis XIV",
+      "Louis XV",
+      "Louis XVI",
+      "Louis XVIII"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_033",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel navigateur portugais a organisé la première expédition à faire le tour du monde ?",
+    "choices": [
+      "Christophe Colomb",
+      "Vasco de Gama",
+      "Fernand de Magellan",
+      "Bartolomeu Dias"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_034",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "De quel mouvement littéraire Émile Zola est-il le chef de file ?",
+    "choices": [
+      "Le Romantisme",
+      "Le Réalisme",
+      "Le Naturalisme",
+      "Le Symbolisme"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_035",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Dans la mythologie égyptienne, quel dieu est représenté avec une tête de faucon ?",
+    "choices": [
+      "Anubis",
+      "Osiris",
+      "Horus",
+      "Thot"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_036",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel artiste espagnol a peint la toile monumentale « Guernica » ?",
+    "choices": [
+      "Francisco de Goya",
+      "Joan Miró",
+      "Salvador Dalí",
+      "Pablo Picasso"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_037",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quelle est la capitale du Canada ?",
+    "choices": [
+      "Toronto",
+      "Vancouver",
+      "Montréal",
+      "Ottawa"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_038",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Qui a lancé l'Appel du 18 Juin 1940 depuis Londres ?",
+    "choices": [
+      "Jean Moulin",
+      "Philippe Pétain",
+      "Charles de Gaulle",
+      "Winston Churchill"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_039",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Qui est l'auteur de la célèbre pièce de théâtre « Roméo et Juliette » ?",
+    "choices": [
+      "Molière",
+      "William Shakespeare",
+      "Victor Hugo",
+      "Oscar Wilde"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_040",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Qui est la déesse grecque de la sagesse et de la stratégie militaire ?",
+    "choices": [
+      "Héra",
+      "Artémis",
+      "Athéna",
+      "Aphrodite"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_041",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel détroit sépare l'Espagne du Maroc ?",
+    "choices": [
+      "Détroit de Gibraltar",
+      "Détroit du Bosphore",
+      "Détroit de Magellan",
+      "Détroit de Béring"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "cg_v3_042",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Dans quelle ville l'archiduc François-Ferdinand a-t-il été assassiné en 1914 ?",
+    "choices": [
+      "Vienne",
+      "Sarajevo",
+      "Belgrade",
+      "Budapest"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_043",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel pays a offert la statue de la Liberté aux États-Unis ?",
+    "choices": [
+      "Le Royaume-Uni",
+      "L'Espagne",
+      "Les Pays-Bas",
+      "La France"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_044",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quelle est la capitale fédérale du Brésil ?",
+    "choices": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasilia",
+      "Salvador"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_045",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Qui a écrit le célèbre conte philosophique « Le Petit Prince » ?",
+    "choices": [
+      "Antoine de Saint-Exupéry",
+      "Marcel Pagnol",
+      "Jean de La Fontaine",
+      "Charles Perrault"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "cg_v3_046",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel architecte a conçu la pyramide de verre du musée du Louvre ?",
+    "choices": [
+      "Le Corbusier",
+      "Jean Nouvel",
+      "Ieoh Ming Pei",
+      "Renzo Piano"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_047",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Dans la mythologie romaine, qui est le dieu des mers et des océans ?",
+    "choices": [
+      "Mars",
+      "Jupiter",
+      "Pluton",
+      "Neptune"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_048",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel est le plus grand désert chaud de la planète ?",
+    "choices": [
+      "Le désert de Gobi",
+      "Le Kalahari",
+      "Le Sahara",
+      "Le désert d'Atacama"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_049",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel dramaturge a écrit la pièce comique « L'Avare » ?",
+    "choices": [
+      "Pierre Corneille",
+      "Jean Racine",
+      "Marivaux",
+      "Molière"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_050",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quelle bataille marque la défaite définitive de Napoléon Ier en 1815 ?",
+    "choices": [
+      "Austerlitz",
+      "Trafalgar",
+      "Leipzig",
+      "Waterloo"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_051",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel est le plus grand lac naturel d'Europe occidentale ?",
+    "choices": [
+      "Le lac de Côme",
+      "Le lac Léman",
+      "Le lac de Garde",
+      "Le lac de Constance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_052",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel pharaon d'Égypte a instauré le culte monothéiste du dieu Aton ?",
+    "choices": [
+      "Toutânkhamon",
+      "Ramsès II",
+      "Khéops",
+      "Akhenaton"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_053",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel célèbre fleuve traverse la ville de Rome ?",
+    "choices": [
+      "Le Pô",
+      "Le Tibre",
+      "L'Arno",
+      "L'Adige"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_054",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Qui est considéré comme l'inventeur de l'imprimerie à caractères mobiles en Europe ?",
+    "choices": [
+      "Léonard de Vinci",
+      "Johannes Gutenberg",
+      "Galilée",
+      "Nicolas Copernic"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_055",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quelle auteure britannique a créé le personnage du détective Hercule Poirot ?",
+    "choices": [
+      "Enid Blyton",
+      "J.K. Rowling",
+      "Agatha Christie",
+      "Mary Shelley"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_056",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Qui est le dieu grec des arts, de la musique et de la beauté masculine ?",
+    "choices": [
+      "Arès",
+      "Dionysos",
+      "Apollon",
+      "Hadès"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_057",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel poète français a écrit le recueil « Les Fleurs du mal » ?",
+    "choices": [
+      "Arthur Rimbaud",
+      "Paul Verlaine",
+      "Charles Baudelaire",
+      "Guillaume Apollinaire"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_058",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Dans quel pays actuel se trouvent les célèbres ruines de Pétra ?",
+    "choices": [
+      "Égypte",
+      "Jordanie",
+      "Syrie",
+      "Liban"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_059",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Dans la mythologie romaine, qui est la déesse de la chasse ?",
+    "choices": [
+      "Minerve",
+      "Vénus",
+      "Diane",
+      "Aurore"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_060",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel navigateur a ouvert la route maritime des Indes en contournant le cap de Bonne-Espérance ?",
+    "choices": [
+      "Christophe Colomb",
+      "Vasco de Gama",
+      "Fernand de Magellan",
+      "Jacques Cartier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_061",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quelle est la capitale de la Suisse ?",
+    "choices": [
+      "Genève",
+      "Zurich",
+      "Lausanne",
+      "Berne"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_062",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel génie de la Renaissance a peint le plafond de la chapelle Sixtine ?",
+    "choices": [
+      "Léonard de Vinci",
+      "Raphaël",
+      "Michel-Ange",
+      "Sandro Botticelli"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_063",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel écrivain espagnol est l'auteur du chef-d'œuvre « Don Quichotte » ?",
+    "choices": [
+      "Gabriel García Márquez",
+      "Lope de Vega",
+      "Federico García Lorca",
+      "Miguel de Cervantes"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_064",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Dans la mythologie grecque, comment s'appelle le chien à trois têtes qui garde l'entrée des Enfers ?",
+    "choices": [
+      "Orthos",
+      "Cerbère",
+      "Typhon",
+      "Argos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_065",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quelle est la capitale de l'Argentine ?",
+    "choices": [
+      "Santiago",
+      "Montevideo",
+      "Bogota",
+      "Buenos Aires"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_066",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel empereur romain a mis fin aux persécutions en légalisant le christianisme (édit de Milan) ?",
+    "choices": [
+      "Néron",
+      "Auguste",
+      "Constantin Ier",
+      "Jules César"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_067",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Qui a écrit le célèbre roman dystopique « 1984 » ?",
+    "choices": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_068",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quelle est la capitale de la Nouvelle-Zélande ?",
+    "choices": [
+      "Auckland",
+      "Wellington",
+      "Christchurch",
+      "Sydney"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_069",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Dans la mythologie égyptienne, qui est la déesse de la magie et l'épouse d'Osiris ?",
+    "choices": [
+      "Hathor",
+      "Bastet",
+      "Sekhmet",
+      "Isis"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_070",
+    "theme": "Culture générale",
+    "difficulty": "Moyen",
+    "prompt": "Quel roi de France a mis fin aux guerres de religion en signant l'édit de Nantes ?",
+    "choices": [
+      "François Ier",
+      "Henri IV",
+      "Louis XIII",
+      "Charles IX"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_071",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quel traité a divisé l'Empire carolingien entre les trois petits-fils de Charlemagne en 843 ?",
+    "choices": [
+      "Le traité de Westphalie",
+      "Le traité de Verdun",
+      "Le traité d'Aix-la-Chapelle",
+      "Le traité de Tordesillas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_072",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quelle est la capitale du Bhoutan ?",
+    "choices": [
+      "Katmandou",
+      "Dacca",
+      "Thimphou",
+      "Rangoun"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_073",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quel peintre romantique français a réalisé le tableau « Le Radeau de La Méduse » en 1819 ?",
+    "choices": [
+      "Eugène Delacroix",
+      "Théodore Géricault",
+      "Jacques-Louis David",
+      "Jean-Auguste-Dominique Ingres"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_074",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quel philosophe allemand est l'auteur de l'ouvrage « Critique de la raison pure » ?",
+    "choices": [
+      "Friedrich Nietzsche",
+      "Georg Wilhelm Friedrich Hegel",
+      "Emmanuel Kant",
+      "Arthur Schopenhauer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_075",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Dans la mythologie sumérienne, qui est le dieu du vent, de l'air et le roi des dieux ?",
+    "choices": [
+      "Anu",
+      "Enki",
+      "Marduk",
+      "Enlil"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_076",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Qui fut le dernier empereur de l'Empire inca, capturé et exécuté par Francisco Pizarro en 1533 ?",
+    "choices": [
+      "Moctezuma II",
+      "Pachacutec",
+      "Atahualpa",
+      "Túpac Amaru"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_077",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quelle est la capitale du Kazakhstan ?",
+    "choices": [
+      "Tachkent",
+      "Astana",
+      "Bichkek",
+      "Douchanbé"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_078",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quel grand poète romain a rédigé l'épopée fondatrice « L'Énéide » ?",
+    "choices": [
+      "Ovide",
+      "Horace",
+      "Virgile",
+      "Sénèque"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_079",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Dans la mythologie nordique, qui est le dieu de la lumière et de la beauté, tragiquement tué par une branche de gui ?",
+    "choices": [
+      "Loki",
+      "Thor",
+      "Baldr",
+      "Odin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_080",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Comment se nomme la première dynastie des rois francs ayant régné sur la Gaule (incluant Clovis) ?",
+    "choices": [
+      "Les Carolingiens",
+      "Les Mérovingiens",
+      "Les Capétiens",
+      "Les Valois"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_081",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quel dramaturge d'origine irlandaise a écrit la célèbre pièce absurde « En attendant Godot » ?",
+    "choices": [
+      "Samuel Beckett",
+      "Eugène Ionesco",
+      "Arthur Miller",
+      "Jean Anouilh"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "cg_v3_082",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quel détroit sépare la Terre de Feu de la partie continentale de l'Amérique du Sud ?",
+    "choices": [
+      "Détroit de Béring",
+      "Détroit de Drake",
+      "Détroit de Magellan",
+      "Détroit de Cook"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_083",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quel artiste réaliste a fait scandale en 1866 avec son tableau intitulé « L'Origine du monde » ?",
+    "choices": [
+      "Édouard Manet",
+      "Gustave Courbet",
+      "Auguste Renoir",
+      "Paul Cézanne"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_084",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quelle reine d'Égypte a régné avec toute la puissance d'un pharaon lors de la XVIIIe dynastie, avant Thoutmôsis III ?",
+    "choices": [
+      "Néfertiti",
+      "Cléopâtre",
+      "Hatchepsout",
+      "Sobekneferou"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_085",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Lequel de ces pays d'Amérique du Sud n'est PAS traversé par l'équateur ?",
+    "choices": [
+      "L'Équateur",
+      "Le Brésil",
+      "Le Pérou",
+      "La Colombie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_086",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Dans la mythologie grecque, laquelle des neuf muses est celle de l'astronomie ?",
+    "choices": [
+      "Clio",
+      "Melpomène",
+      "Calliope",
+      "Uranie"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_087",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quel écrivain a développé la pensée de l'absurde dans son essai « Le Mythe de Sisyphe » ?",
+    "choices": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Friedrich Nietzsche",
+      "Søren Kierkegaard"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_088",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quel est le plus haut volcan du monde, situé dans la cordillère des Andes ?",
+    "choices": [
+      "L'Aconcagua",
+      "Le Cotopaxi",
+      "Le Nevado Ojos del Salado",
+      "Le Chimborazo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_089",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "En quelle année ont été signés les traités de Westphalie, mettant fin à la guerre de Trente Ans ?",
+    "choices": [
+      "1598",
+      "1618",
+      "1648",
+      "1713"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_090",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Qui est le célèbre architecte français du château de Vaux-le-Vicomte, qui inspira ensuite Versailles ?",
+    "choices": [
+      "André Le Nôtre",
+      "Jules Hardouin-Mansart",
+      "Louis Le Vau",
+      "Charles Le Brun"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_091",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Dans l'hindouisme, quel est le nom du dieu créateur de l'univers, formant la Trimūrti avec Vishnou et Shiva ?",
+    "choices": [
+      "Ganesh",
+      "Brahmā",
+      "Indra",
+      "Krishna"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_092",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quel auteur contemporain japonais est célèbre pour ses romans « 1Q84 » et « La Chronique de l'oiseau à ressort » ?",
+    "choices": [
+      "Yukio Mishima",
+      "Kenzaburō Ōe",
+      "Yasunari Kawabata",
+      "Haruki Murakami"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_093",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quelle célèbre bataille remportée en 1515 marque le début du règne du roi de France François Ier ?",
+    "choices": [
+      "Bataille de Pavie",
+      "Bataille de Marignan",
+      "Bataille d'Azincourt",
+      "Bataille de Castillon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_094",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quel fleuve mythique traverse la ville de Bagdad en Irak ?",
+    "choices": [
+      "L'Euphrate",
+      "Le Tigre",
+      "Le Jourdain",
+      "Le Nil"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_095",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quel peintre flamand visionnaire a réalisé le triptyque « Le Jardin des délices » ?",
+    "choices": [
+      "Jan van Eyck",
+      "Pierre Paul Rubens",
+      "Jérôme Bosch",
+      "Pieter Brueghel l'Ancien"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_096",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quel empereur romain a régné de 161 à 180 et est resté célèbre pour ses écrits de philosophie stoïcienne ?",
+    "choices": [
+      "Trajan",
+      "Hadrien",
+      "Marc Aurèle",
+      "Commode"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_097",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Comment s'appelle le vent chaud et sec venu du Sahara qui souffle sur l'Europe du Sud et le bassin méditerranéen ?",
+    "choices": [
+      "Le Mistral",
+      "Le Sirocco",
+      "La Tramontane",
+      "Le Foehn"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cg_v3_098",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Dans la mythologie celtique irlandaise, qui est le dieu suprême de la sagesse et de la magie, possédant un chaudron d'abondance et une massue ?",
+    "choices": [
+      "Lug",
+      "Cernunnos",
+      "Nuada",
+      "Le Dagda"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "cg_v3_099",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quelle grande figure radicale de la Révolution française et de la Terreur était surnommée « l'Incorruptible » ?",
+    "choices": [
+      "Georges Danton",
+      "Jean-Paul Marat",
+      "Maximilien de Robespierre",
+      "Camille Desmoulins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cg_v3_100",
+    "theme": "Culture générale",
+    "difficulty": "Difficile",
+    "prompt": "Quel poète, dramaturge et philosophe indien est devenu en 1913 le premier Asiatique à remporter le prix Nobel de littérature ?",
+    "choices": [
+      "Rabindranath Tagore",
+      "Mahatma Gandhi",
+      "Premchand",
+      "Satyajit Ray"
+    ],
+    "correctIndex": 0
+  }
+]
