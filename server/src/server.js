@@ -27,7 +27,7 @@ app.get('/health', (_req, res) => {
 });
 
 // 2. Servir les fichiers statiques du front (dossier public/ créé dans le Dockerfile)
-const publicPath = path.resolve(__dirname, 'public');
+const publicPath = path.resolve(process.cwd(), 'public');
 app.use(express.static(publicPath));
 
 // 3. Redirection SPA (renvoie index.html pour les routes Vue Router)
